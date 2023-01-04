@@ -1,0 +1,1022 @@
+,id,Loai_cho,Chi_tiet,Gioi_tinh,Tuoi,vacxin
+0,006934b7ef2e4b4990895879ad0f39e1,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+1,21dfac4a99bd421a9998e4d94275f855,Chow chow,chó Chow chow,cái,02 tháng,đã tiêm 2 mũi
+2,370dfe3334cf4dc9be435e5524a91618,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+3,3b83939d5a514feb905e734f78fb2e6d,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+4,425000816c694d258a30f1f143727f82,Labrador,Labrador Retriever,đực,02 tháng,đã tiêm 2 mũi
+5,479dc84c124942269d54b9384378b3bf,Labrador,Labrador Retriever,đực,02 tháng,đã tiêm 2 mũi
+6,492823ac22d74a6cabf061e721ce82e9,Poodle,chó Poodle,cái,02 tháng,chưa
+7,4dc27c05f9034e73a9b253a4d31c35f4,Poodle,chó Poodle,đực,02 tháng,chưa
+8,5521fabb9e81421f93f3645f2cee4800,Poodle,chó Poodle,đực,02 tháng,đã tiêm 2 mũi
+9,574ca3092f7c4acb840f48c2232fc865,Basenji,chó Basenji,đực,03 tháng,đã tiêm 2 mũi
+10,64b2af3357d14e719a8c2832d624f1db,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+11,6ee77c8517a64c6fa250521c72e51a03,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+12,7387499a4b86405da01bab2d442e8d0a,Shiba Inu,chó Shiba Inu Nhật Bản,03 đực,01 tháng,đã tiêm 2 mũi
+13,75276da7237c4709b62990e27963aaf0,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+14,7b4ac82d5ab041579c97b2b04f9403be,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+15,833b1d56570b45f0a8b3e8e20badfa51,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+16,878cae30b57d40b89989d499c1021ee2,Rottweiler,"chó Rottweiler (rott), Màu sắc: đen vàng",cái,02 tháng,đã tiêm 2 mũi
+17,8a8d310200f443608aa9d08dcdb7407a,Corgi,chó Corgi Pembroke,01 cái 02 đực Tuổi: 2 tháng tuổi,2 tháng tuổi,đã tiêm 2 mũi
+18,91f915a96cc24eadad601429422e615b,Corgi,chó Corgi Pembroke,01 cái 01 đực Tuổi: 2 tháng tuổi,2 tháng tuổi,đã tiêm 2 mũi
+19,97697bde93b649a7b88848a95ba741ac,Corgi,chó Corgi Pembroke,đực Tuổi: 2 tháng tuổi,2 tháng tuổi,đã tiêm 2 mũi
+20,98c3c55c850f44a889edd0f7142ada91,Corgi,chó Corgi Pembroke,đực Tuổi: 2 tháng tuổi,2 tháng tuổi,đã tiêm 2 mũi
+21,af80b715967e4e70bf8c98015be3fc1a,Corgi,chó Corgi Pembroke,cái Tuổi: 2 tháng tuổi,2 tháng tuổi,đã tiêm 2 mũi
+22,b5d157093a964da79166b4852d4f662c,Husky,chó Husky Sibir,đực,02 tháng,chưa
+23,b5ee13944db5428c81e716a7abb0e1ce,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+24,b98025c4615f4f4a8776c18093a71912,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+25,cf9343cf950f46788da41a9719e679c4,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+26,d19b546be15543dd9175b1e9be731d3c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+27,d214e74dabdb455da36d108bc717f948,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+28,d556ce1b9a4b4a18bf8bda50c3168c5f,Alaska,chó Alaska Malamute,02 đực,02 tháng,chưa
+29,d7b0500eada744a4aa299b0dd55b1864,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,đã tiêm 2 mũi
+30,db3a02f7cf4b404f89ccc30c6729af9f,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,chưa
+31,de8920d815f6425e88ece250e3938bf0,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,đã tiêm 2 mũi
+32,e5785c0f095c4d30a2be718323a044af,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+33,ed25b3a16a93494794ea66c29d445066,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,chưa
+34,fe1afdc1d8204b2982d88235be65224c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+35,2b051b2dc44843d4ace8dd9e91b731bd,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+36,387e7f422dca494382d6c2886eef2801,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+37,55d19ff104d64a89b23ededfd17734bd,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+38,6b99a189b743456c97bfdd1d059420ac,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+39,844113fa3af9480f99f900c6bbd8334e,Alaska,chó Alaska Malamute size Giant,đực cái,02 tháng,đã tiêm 2 mũi
+40,a13c9bf2485e463baf09abb243b30046,Shiba Inu,chó Shiba Inu Nhật Bản,03 đực,02 tháng,đã tiêm 2 mũi
+41,a1aab9cac32242e7825662f97586cd7f,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,chưa
+42,a1da87229d4a4298903af0a2a60f7531,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+43,a4bc86d71344429fbae4572e05436481,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+44,ab533d1259b14985a748c7906323a407,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+45,d7612a16abd04a11a99f9aa9072f1fc1,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+46,ec4e30462fea4aeb8999afd50ff53c14,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+47,f775e022df6c477faf8f33c80c53e0bd,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+48,0005c56e185c4cf496ffb19b78606bf2,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+49,02f14e0599a94a6fa371786aafaa7ae7,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+50,09d58128554e4e858387e82c30604bdc,Chihuahua,chó Chihuahua,đực,02 tháng,đã tiêm 2 mũi
+51,169733335be74381bbddf83f267296b0,Shiba Inu,chó Shiba Inu Nhật Bản,cái đực,05 tháng,chưa
+52,182b5a60683f4a588d946e31abba8471,Shiba Inu,chó Shiba Inu Nhật Bản,cái,06 tháng,đã tiêm 2 mũi
+53,1a37f3b9e8764f44a241f333db51144b,Shiba Inu,chó Shiba Inu Nhật Bản,cái,05 tháng,chưa
+54,1adf073dce984bf780d30e8f950a4cc7,Alaska,chó Alaska Malamute size Giant,đực,02 tháng,đã tiêm 2 mũi
+55,1cb72bb2b1774001b17acf64cf8988a2,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+56,1e16b612d1b2474ea9388a9180e822d7,Alaska,chó Alaska Malamute size Giant,cái,02 tháng,chưa
+57,265db58fa6584427b799b9d4edbf0af7,Shiba Inu,chó Shiba Inu Nhật Bản,cái,05 tháng,chưa
+58,26f77b81936c43598734bb72f187e0f2,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+59,2806513304db4e2fa48b827f8b67121b,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+60,2820c5114aef4011924d23326b0a2f43,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+61,2a44e0de121e4839860ce3bbee883c2f,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+62,2be0f844a279483c9486fca385ae6c0f,Samoyed,chó Samoyed,01 đực 01 cái,02 tháng,đã tiêm 2 mũi
+63,2df000ebd9c744c38eafa0b3b3390d83,Samoyed,chó Samoyed,cái,02 tháng,chưa
+64,331e388148224307978f561dbd2f5060,Samoyed,chó Samoyed,đực,02 tháng,đã tiêm 2 mũi
+65,3378399cdff547fb9e213d8f90461f52,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+66,3e18c1b719254fa69179696dbc788164,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+67,47d0ca1e04cc484a8347518e5f2abd4a,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+68,4a40237b95fd438aa80ed47602262036,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+69,4ed2857a0d8e436785f747bc47cb81aa,Bichon,chó Bichons Frise,cái,02 tháng,chưa
+70,55bb0b1ed3674a9cbfe8bf5a11013ccb,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+71,5874050a2e5b42348ecf37525f97918d,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+72,6ee07ea56ef940019d1c5d32c76a39a8,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+73,6fce720becbd47be9fcfc7ada60baa4e,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+74,70101d9ceb214ea888ae0e001555eeaf,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+75,72d32109862b492d9f0f7e3ea0bfb105,Poodle,chó Poodle Tiny,03 đực 03 cái,02 tháng,chưa
+76,747a5b260cb74d56923b76da520a44e1,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+77,79f4742f1b6846ab9a1f4e7ea609b4a8,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+78,7c3e685102ad4080a9908f6b649f43cd,Alaska,chó Alaska Malamute,cái,02 tháng,chưa
+79,89e0695b38ab499b8a67475f917d39ff,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+80,900634c5685945a19d2902e0bf515bcf,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+81,91c3856960954cc1a25b80374439dc5a,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+82,96ff14ae76304931bf574f3c1193c45c,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+83,a3b6166a0aa74ae398048a1e2f03a634,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+84,acb99b6ca6c34865a603d3767dc509b1,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+85,ada695a2568a40068b1a137d5f738ece,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+86,b218f83961df4728b4ce65c47fb97d9a,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+87,b31d028403a94845a07cbdfb863a9c32,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+88,b6f40b97ad304de19eeec91d3eb0976a,Corgi,chó Corgi Pembroke,01 cái,2 tháng tuổi,chưa
+89,bd94350e7d1148dab73f502ac0d2fc5e,Corgi,chó Corgi Pembroke,01 cái 01 đực,2 tháng tuổi,chưa
+90,c0c02309c56340b6b66c2b2cdee24b51,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,đã tiêm 2 mũi
+91,c20c204be3cf47c5b3ca2dc8bdd6d096,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,chưa
+92,c538c9a1146e48b2a739962f24209280,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,chưa
+93,cb31ca8f82e64e8e96ea36bd8054c8ba,Corgi,chó Corgi Pembroke,01 đực 04 cái,2 tháng tuổi,chưa
+94,ccb4dd6ee1d2430daf7db1c424dfae1e,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,đã tiêm 2 mũi
+95,dc1c22b3b5a54bc8b031a61cc918282b,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,chưa
+96,dee793fdeb16492ea46b54feb4864432,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,đã tiêm 2 mũi
+97,e0f537ed397f4950857742963e7c0f14,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,chưa
+98,e2b619eaa2d84004a32ae4ce94c36c9a,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,đã tiêm 2 mũi
+99,e4ebc4549a6a48c89b7acdf39bc6cef3,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+100,e61aa375b8b84eff86dc2c668de8df19,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+101,e76ff80ab9b84997a02231a047c7582c,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+102,f2180f111be94baa9155adafeb4ae797,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",04 cái 03 đực,02 tháng,chưa
+103,f720cd6398374ef1ad11f52368ed3a2d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",02 cái 02 đực,02 tháng,chưa
+104,f9a3f7df1375444cb3c6ca82cc961093,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+105,fd50cf663c3043daba3e22f014abaf2c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+106,fd5d78942d61461da218a91242374764,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+107,08650f536db0479ca5d4306e4c2e3b0d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",02 cái 01 đực,02 tháng,đã tiêm 2 mũi
+108,5f874aea3fe344cf8ecd05dca95133cb,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+109,d0ff7a0746f3457bb5f3bedd1187374d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+110,059a1fc8d34949d7aab950acd47f94f8,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+111,029b298901d04625992fc16141a6a38b,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+112,0e86f47d0dbe40da9af4d46c1e09505c,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+113,661a036e304442bf86682907ac51a1be,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",02 đực,02 tháng,đã tiêm 2 mũi
+114,6b9cb3e1ce5140cb864bc0ca628002c2,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+115,859692b2f20a4422a6650c1e350dd6b8,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+116,b1e04cf3d4214ffa9e8403bc8d3fd83a,Basenji,chó Basenji,đực,02 tháng,chưa
+117,de850b4d791d46078740b921e57d77c0,Labrador,Labrador Retriever,đực,03 tháng,chưa
+118,fb515abec6c74796a60cf6855d190725,Bull Pháp,chó Bull Pháp,đực,02 tháng,đã tiêm 2 mũi
+119,4006000a5de145b9b82b2ded22788955,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+120,45e977d3a793404bb23cc573eba72f46,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+121,678e2a90d0d44cb1afdce74ce2b13ef3,Lạp xưởng,chó Dachshund (Lạp Xưởng),đực,02 tháng,đã tiêm 2 mũi
+122,a1814c01c3824fee9a3f9ed10349abb5,Lạp xưởng,chó Dachshund (Lạp Xưởng),đực,02 tháng,đã tiêm 2 mũi
+123,b54b9124136144279ce4ed5e7d8731a5,Lạp xưởng,chó Dachshund (Lạp Xưởng),đực,02 tháng,chưa
+124,f1aa4f92fcef4c25a0f151701e8636aa,Phú Quốc,chó Phú Quốc,đực,03 tháng,chưa
+125,f938b133b30a48d5873986b971492446,Phú Quốc,chó Phú Quốc,đực,04 tháng,chưa
+126,28e8c6c640a74de3853bf60958b654fd,Phú Quốc,chó Phú Quốc,02 đực,03 tháng,chưa
+127,32f9222645f245ef943c8fdfa600e9d7,Bull Pháp,chó Bull Pháp,đực,02 tháng,đã tiêm 2 mũi
+128,3363ef0ac6e3441595ba79ca2b0ca9f7,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",06 cái 04 đực,02 tháng,chưa
+129,3c0c68f74bda455b919355001c08f0e5,Alaska,chó Alaska Malamute,01 cái 01 đực,02 tháng,chưa
+130,4c04bf76caa944f18a690d59818447c3,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+131,56426fa8173f47d38bce2a8a607df0c0,Alaska,chó Alaska Malamute,cái,02 tháng,đã tiêm 2 mũi
+132,705c59866dec4adea82229d8bec21f4e,Bichon,chó Bichons Frise,02 đực,02 tháng,chưa
+133,7906f664d9f74b148176215daad9465f,Bichon,chó Bichons Frise,đực,02 tháng,đã tiêm 2 mũi
+134,94f878c5dd3c41bf9038563b6010b128,Alaska,chó Alaska Malamute,đực cái Tuổi: 02 tháng,02 tháng,chưa
+135,9d73e4fb84f6459a91581e3325292ef4,Bichon,chó Bichons Frise,đực,02 tháng,đã tiêm 2 mũi
+136,a13b14c1a1ca43d59aee5aeeecd24e23,Phốc Hươu,"chó Phốc hươu (fox hươu, phốc, fox)",đực,02 tháng,chưa
+137,c309654ce7b84aac8f93845e674d1fcb,Corgi,chó Corgi Fluffy,02 đực,2 tháng tuổi,đã tiêm 2 mũi
+138,c348aebaa3cb4211ac3758e3d3e85f20,Corgi,chó Corgi Fluffy,đực,2 tháng tuổi,chưa
+139,03532818039d4d70bc62b42cdd3ab784,Corgi,chó Corgi Fluffy,đực,2 tháng tuổi,chưa
+140,08fc28e69de8416ea037fb8cd211b803,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+141,0bc1675f48b64fc9af4bd0e5d880619d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+142,0d570afd48f84c35b2a0bb8e9949dde0,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+143,0ef10e2d4be74744890bcd472f18b42d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+144,13d21f4d749f49b39ccbc59eaab6c9d3,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+145,15976fd893e746a69d89a2698f3e7432,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+146,1a97e11e82454394b27378a083cb59ba,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+147,2054bee2ac104404aa1cd7d45db8a7d6,Corgi,chó Corgi Pembroke,cái,02 tháng,đã tiêm 2 mũi
+148,2a57d2ad00c14fc6b98b0934c731f15e,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+149,34b00f04e9fc455a9ac69a233a2574b9,Corgi,chó Corgi Pembroke,đực,8 tháng,đã tiêm 2 mũi
+150,3b7ecaca014942b58e2a8f6f080630e3,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+151,428dc782ef8f47b9a05cc361b26dc7ef,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+152,49219bfdac8846af88c36d59582ed5aa,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+153,4a250b9b912644df8b7570ce095cb2d3,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+154,4c3cf251432c42a9b5c70a4e65fc7ac5,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+155,563d0d498c33437da026263dbebd26f4,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+156,5a036a8a0d9144d5b59cbbcd4ace1f4e,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+157,6398373c96b74d03a6c2c635e5403592,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+158,67b00176203b40a3976ed6c7d7c156cd,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+159,6cc0ff80df9449f5a6656d4c54ed2e5f,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+160,702956f8049a4b02878e4a2ccb23de0a,Alaska,chó Alaska Malamute,đực cái,02 tháng,chưa
+161,786712d6818740a8845dad9b4b2c2313,Alaska,chó Alaska Malamute,đực cái,02 tháng,chưa
+162,8b7552ce94bd4b138ef164541d3bf776,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+163,974855f5a7c84199b67edc378520eb52,Labrador,chó Labrador Retriever (Lab),đực,03 tháng,chưa
+164,9f2d993c44f846d3b5596355ec9bd366,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,chưa
+165,a1dc626afdae4beabc7b66990193fb0f,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+166,a2e1ae16708f495a9d46553b572568f3,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+167,a89f9f27249349a09e01ced16bef398a,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+168,b3520e97891647b6afab4cc791e5ee12,Husky,chó Husky Sibir,đực,02 tháng,đã tiêm 2 mũi
+169,b4ad1d0f65f14bfaad155c5fa1621d08,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+170,c36f23149c164b00b22e29f33c7c3205,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+171,c43709d9cae54d5ca145c58a4b7b4886,Labrador,chó Labrador Retriever (Lab),đực,03 tháng,đã tiêm 2 mũi
+172,c8e9f21b280740c0ace43bbcc8f2fe30,Alaska,chó Alaska Malamute,đực cái,02 tháng,chưa
+173,cda2210075814f2d816382b1cdbb55b9,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+174,db01745b846047e4a75f4a1601f1f0a0,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+175,e242996a9c1a4f8bb6c05e5ff9b064b2,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+176,f15870928c644f20beaa0eef96f1b979,Corgi,chó Corgi Fluffy lông dài,đực,03 tháng,đã tiêm 2 mũi
+177,f1b6d6426c0e45f59acbf392f6cd9eab,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+178,f41d78d6d4354889ad7c2ece3227725d,Alaska,chó Alaska Malamute,cais,02 tháng,đã tiêm 2 mũi
+179,06d52cea3fa24176b917e728fc066f20,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+180,22c7cfdfe02843daba9850c9c8bb77ca,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+181,2df8c055721d4e0f88a199ed3437400e,H’mong cộc,chó H’mong cộc,cái,2 tháng,đã tiêm 2 mũi
+182,36a039f0606947be85e8a4819ee2ff08,Poodle,chó Poodle Tiny,cái Tuổi: 02 tháng,02 tháng,chưa
+183,37b4c0afbcdb46b0ad1f159a07642270,Bull Pháp,chó Bull Pháp,đực,02 tháng,đã tiêm 2 mũi
+184,62380a1f774646179a3691219d717920,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+185,6263dc25bdb44befb16451dcd4e05095,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+186,6380fbb409fa487b90384f25b773a73c,Border Collie,chó Border Collie,đực,02 tháng,chưa
+187,6db52324fa284a06adad4911d883573c,Alabai,chó chăn cừu Trung Á – Alabai,đực,04 tháng,đã tiêm 2 mũi
+188,7eeeee9871aa4972898cccbafcf1e5ce,Schnauzer,Schnauzer (chó ông già),đực,02 tháng,chưa
+189,890918793f354daa8d29fd811e53d5aa,Cane Corso,chó Cane Corso Ngao Ý,cái đực,02-03 tháng,chưa
+190,8b29180cf06c4899a2ef41f0a4a0349e,Cane Corso,chó Cane Corso Ngao Ý,cái,02 tháng,đã tiêm 2 mũi
+191,95990b246d5241b0bf9b418f03f85f92,Cane Corso,chó Cane Corso Ngao Ý,đực,03 tháng,đã tiêm 2 mũi
+192,a3babbf295a84bd2a0ca8959a2fbff92,Cane Corso,chó Cane Corso Ngao Ý,cái đực,02-03 tháng,đã tiêm 2 mũi
+193,a68f1613b943454ba566f8cf79d30631,Cane Corso,chó Cane Corso Ngao Ý,cái,02 tháng,đã tiêm 2 mũi
+194,b623a4be0cc249b3803cb5b40d63b9e2,Cane Corso,chó Cane Corso Ngao Ý,đực,03 tháng,đã tiêm 2 mũi
+195,ccff708113694c32bebc87e21fb5dcc9,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+196,4b39acc91dbe4d759789fcf00e9da87e,Poodle,chó Poodle tiny,01 cái 02 đực,02 tháng,chưa
+197,8129639d767349388612ce1b6b9d9907,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+198,cfea5c8ed944487384a484f2127b9a24,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+199,8b2c226e62cc41ecb622c7fd60c5f6e8,Poodle,chó Poodle tiny,đực,02 tháng,chưa
+200,9ca80ff5c22f444a949fec5523cdcdc0,Poodle,chó Poodle tiny,đực,02 tháng,chưa
+201,f26a02f04cea4c279d0e8a912adb67cd,Poodle,chó Poodle tiny,cái,02 tháng,chưa
+202,067dac1f35394e22b7c5ced4650c6c48,Poodle,chó Poodle tiny,01 cái 01 đực,02 tháng,chưa
+203,0bcb99d93e3545069a82dfe768cdc3a7,Poodle,chó Poodle tiny,đực,02 tháng,đã tiêm 2 mũi
+204,1ad9875a449049f3b624faba5bc7a715,Poodle,chó Poodle tiny,cái,02 tháng,đã tiêm 2 mũi
+205,1e30016b784941d58ee5976700832fdc,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+206,4c21abf4c61d4a62aa206cc000a5be09,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,chưa
+207,549802af4d1446a79a20e0110b2422d7,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+208,9f9f17530bb340848333339b6618c403,Poodle,chó Poodle tiny,01 đực,02 tháng,chưa
+209,b6f113c10a14407b90d5a5a0712f62e0,Poodle,chó Poodle tiny,01 đực,02 tháng,đã tiêm 2 mũi
+210,7be3ee4729ee454397b20e80d00b2029,Poodle,chó Poodle tiny,01 đực,02 tháng,đã tiêm 2 mũi
+211,aa1789f4fb864a16a7558def53d52517,Poodle,chó Poodle tiny,03 đực,02 tháng,chưa
+212,c0a22e18701e4c1baaf0b696ba5e3a7c,Doberman,chó Doberman,đực,03 tháng,đã tiêm 2 mũi
+213,c33666310d5e44acabab2a739a5fa7ed,Akita Inu,chó Akita Inu Nhật Bản,đực giống,04 tháng,chưa
+214,044cf4e3577e4649921dde8154ec0bdb,Poodle,chó Poodle tiny,đực,04 tháng,chưa
+215,11635e1e0c8b44b68e3c82cf6f4a6eef,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",02 đực,02 tháng,chưa
+216,292aeba8a8844a31a333c7c68f0f7e5a,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+217,3dff8c590f364cb0928eed4949e905de,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+218,5cdb0588c0b549dcb4186cb87070c211,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+219,65ac4e5931ee4b82a79a065d5e159e28,Shiba Inu,chó Shiba Inu Nhật Bản,01 đực 02cái,02 tháng,chưa
+220,7740194ab5aa449bab141c2c8c575c99,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,đã tiêm 2 mũi
+221,98236061bee2481c9c5f5ba42759cc05,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,chưa
+222,bef346a2e8c84a72a2bedd33677f7cb1,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+223,cfb7ce8b257248838b5173253ccc45e9,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+224,de491f3eef654c129e59c351cabaf7dd,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+225,f311023ac32344e485e431cb7c6138e2,Border Collie,chó Border Collie,đực,02 tháng,chưa
+226,01dd2a809c6f4393aafc1070508ca4cb,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+227,050a214f692e4e37a432eff1dcf71226,Border Collie,chó Border Collie,cái,02 tháng,chưa
+228,06ccfcb0d23241ac90437c8983f00e09,Border Collie,chó Border Collie,cái,02 tháng,chưa
+229,0813f88064104b1aa4d7e8d540dbdb96,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",02 cái 02 đực,02 tháng,đã tiêm 2 mũi
+230,08f51f098b614de980cec4ccbb8ca76e,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+231,0a2364b6d7f64489888b3a11459c2140,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+232,0af8d7954f7946b7bbd91a62214eddb5,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+233,0d636f701e6140caba96f8d230b01b7d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+234,0d65710d1a3c4e3792618145e7218120,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+235,1037eff130b8481e903fc7f47e51ddd4,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",01 cái 05 đực,02 tháng,đã tiêm 2 mũi
+236,136c3166319143fc9c1800bd4b6e9e64,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,chưa
+237,14d10285608047b993080ee500613a88,Cane Corso,chó Cane Corso Ngao Ý,đực,02 tháng,chưa
+238,15304401100341f888acdad8afd7e384,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,chưa
+239,15dfb101123843d4ab1c180915aca872,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+240,17eb046a004d411baaf0ae98f41fff1a,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+241,18b377201b4e472ca9a5f4ba551a9bb8,H’mong cộc,chó H’mong cộc,đực,2 tháng,chưa
+242,1c8746afab3b474da1fa931726e4ca79,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+243,1f4351302ee34adab16d1968b1d7482e,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+244,20451eaf27db48edb16d55d576c49d21,Cane Corso,chó Cane Corso Ngao Ý,đực,02 tháng,chưa
+245,209a41c2803a4d97a9998356c279e536,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+246,21e28989bdd0417689448a8affddca5a,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+247,22fd06ae394843bc81eba2c9ca8c911b,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+248,249e80f0118c40ec88b7fe291e9267d8,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+249,2738d8a5531c44e09e52ff065cb4ad5c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+250,277f39e64a594dd19a0961db44cb8f9f,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+251,2826890c50404224915a470b07b09cdf,Becgie,chó Becgie Đức GSD,đực,02 tháng,đã tiêm 2 mũi
+252,2d2e09dff2f44242ac0764b7e36c286f,H’mong cộc,chó H’mong cộc,đực,2 tháng,chưa
+253,2eb42c23ae2042feb4a53022afe6a4b3,Bắc Hà,chó Bắc Hà,đực,2 tháng,đã tiêm 2 mũi
+254,32b35f4b8a9a4dcabc0eec999137515f,H’mong cộc,chó H’mong cộc,đực,2 tháng,đã tiêm 2 mũi
+255,3471fe3e42314cccbdfc14e75fe9c70e,Bắc Hà,"chó Bắc Hà, H’mong cộc",02 đực,2 tháng,đã tiêm 2 mũi
+256,375171d1b96e436590039ee8cce8b1fc,Bắc Hà,chó Bắc Hà,đực,2 tháng,chưa
+257,37940d591a504b139632fd5eb06cd2ec,Bichon,"chó Bichons Frise, Chihuahua, Poodle Teacup",02 cái 01 đực,2-3 tháng,đã tiêm 2 mũi
+258,382db271f302441b9484b1b1cf63c499,Beagle,chó Beagle,đực,02 tháng,đã tiêm 2 mũi
+259,3bdd600bd3544cf396dc9ca8b916ce4e,Bichon,"chó Bichons Frise, Chihuahua",cái đực,2-3 tháng,chưa
+260,3cc6ba3cf7c94701afc9b2614c254080,Beagle,chó Beagle,đực cái,02 tháng,đã tiêm 2 mũi
+261,439e4b7cc76447fc92f95ff9600eaeb4,Bichon,"chó Bichons Frise, Poodle Teacup",02 cái,03 tháng,đã tiêm 2 mũi
+262,43d231d447814386b727213f38110317,Chihuahua,chó Chihuahua,đực,02 tháng,đã tiêm 2 mũi
+263,481cee36e8de41bdae79e867c8e531ac,Poodle,chó Poodle teacup,cái,03 tháng,chưa
+264,48b50d9b293b464e8d6421dea7df4996,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+265,4aca6f301370446c972b45af0a499aba,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+266,4e1385b01d0c4a51a94d4daeab19acc0,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,đã tiêm 2 mũi
+267,4f4b4a012841466e86e607e3ea1362cc,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,đã tiêm 2 mũi
+268,4f571218667b4bf4854a1be4a2fd4a62,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,đã tiêm 2 mũi
+269,53192e8673c740499478460e526394c9,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,đã tiêm 2 mũi
+270,53a2c1ddea9040268bc870e713002adb,Corgi,chó Corgi Fluffy,đực,2 tháng tuổi,chưa
+271,55865d5dd10e4f8480dd9299cd7d8922,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,chưa
+272,57686c49b8504e808b6c5db9485142b9,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+273,5a1393fa495148979c2101ca7de3826f,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+274,5acf1f6777a44f8e90465eb2a57672fd,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái đực,02 tháng,chưa
+275,5d1578dc2e7a43cba34e88ad25ac23fc,Bichon,chó Bichons Frise,cái,02 tháng,chưa
+276,5e8ccee74cd149cc924329ab3dfaaa0f,Doberman,chó Doberman,đực,02 tháng,đã tiêm 2 mũi
+277,5e8f705e61be4371ad107c63b7995bd5,Doberman,chó Doberman,đực,02 tháng,đã tiêm 2 mũi
+278,5f274e411dc8472086d586b7c2eea86f,Beagle,chó Beagle,đực,02 tháng,đã tiêm 2 mũi
+279,602c9bf5ba8a48069e32960e27a6e955,Beagle,chó Beagle,cái,02 tháng,đã tiêm 2 mũi
+280,67ff21b707e9403296817af0f3ca1087,Beagle,chó Beagle,04 cái01 đực,02 tháng,chưa
+281,69a7bcd904eb4b42866998368d4685eb,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+282,6a360797c94c49298b09087f59e736a5,Becgie,chó Becgie Đức GSD,đực,02 tháng,chưa
+283,6a4c790072634c939bc82ac0d5724a3b,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+284,6c1ef5a9c30f4ae7bd88f812379cdfbc,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+285,6fd0ba923b1e40498b598eec04cb916d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+286,7409c6f0c65840478d53c0a649a6dc78,Bull Pháp,chó Bull Pháp,đực,02 tháng,đã tiêm 2 mũi
+287,7519cec80a1c4d939a6721a8afe901c8,Bichon,chó Bichons Frise,cái,02 tháng,chưa
+288,7972318209cb43809125803805a1740c,Phốc Hươu,"chó Phốc hươu (fox hươu, phốc, fox)",đực,02 tháng,đã tiêm 2 mũi
+289,7ad5aabb01e64b89b0e7b35557ceae36,Corgi,chó Corgi Cardigan,đực cái,3 tháng tuổi,đã tiêm 2 mũi
+290,7af2d9976273417db1e930acd28bf3b3,Corgi,chó Corgi Cardigan,đực,3 tháng tuổi,chưa
+291,7c9bf9cf2dbc42a794896051106f8f3a,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+292,7e2ace42cf524b4ab9f02417b3503cc5,Phốc Hươu,"chó Phốc hươu (fox hươu, phốc, fox)",đực,02 tháng,đã tiêm 2 mũi
+293,7e8cf1b3a8014cfd80203cb3671952cf,Bull Pháp,chó Bull Pháp,đực,02 tháng,chưa
+294,7ff09f89ea684d73aaecbcf7d04c3859,Border Collie,chó Border Collie,đực,02 tháng,chưa
+295,805529b50f474bc6b24fc950ac3dff79,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+296,81be0b9e4bd646be88c03452db79d09b,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+297,82e8866ea5884ecf9a886eb5c147e9cc,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+298,834d2d6ca4e84ac39e5f7910360a6163,Chow chow,chó Chow chow,cái,02 tháng,chưa
+299,83edc0fb1fdb4327841bab3505d39c3e,Border Collie,chó Border Collie,đực cái,02 tháng,đã tiêm 2 mũi
+300,8624e9af07184cbf8254c25f3305b4da,Border Collie,chó Border Collie,đực cái,02 tháng,đã tiêm 2 mũi
+301,88cd13bbb42b41808dff003de2bd155b,Border Collie,chó Border Collie,đực cái,02 tháng,đã tiêm 2 mũi
+302,8a40b366cf054ccaad99c3fed597efce,Corgi,chó Corgi Cardigan,cái đực,1 tháng tuổi,đã tiêm 2 mũi
+303,8b0db6904d304948a49b85c2d52fb30b,Lạp xưởng,chó Dachshund (Lạp Xưởng),đực,02 tháng,chưa
+304,8c071837ab6549008e93452c8a4fd9c1,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+305,8f181a49aa4541a09c333306ddc49f19,Alabai,chó chăn cừu Trung Á – Alabai,đực,6 tháng tuổi,chưa
+306,93426da1d19e43dfa56cc958c4a475ca,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+307,9445e629876c4e9f97c83c5f450445ca,Corgi,chó Corgi Pembroke,cái,02 tháng,đã tiêm 2 mũi
+308,9d45da1c4e2b4cab9cc5969b05bc8844,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+309,a2b2990710bf4235a558d769a879279e,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+310,a64a3ff3ced84ce6807bed62c522d711,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,2 tháng,đã tiêm 2 mũi
+311,a798d33dfc9e40c3b8a03ee177c78252,Samoyed,chó Samoyed,01 đực,02 tháng,chưa
+312,a9fee257c20a45a79c2e5f13018b92d9,Border Collie,chó Border Collie,cái,02 tháng,đã tiêm 2 mũi
+313,abdb38e6f38444bf9cbd1e612de8324d,Border Collie,chó Border Collie,cái,02 tháng,chưa
+314,acfd2012d80c4e2aa6106caa6f5d341e,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+315,ae3188ba3cd04d5390603832c0fc8769,Border Collie,chó Border Collie,đực,02 tháng,chưa
+316,b07acf0a964f4198a6c48d18e793b5d5,Border Collie,chó Border Collie,02 đực 02 cái,02 tháng,chưa
+317,b0aa61ac1708410c8949ba7f202692a1,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+318,b0dc93ab78ed41b78ba3d8553e3b5289,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,chưa
+319,b38dac86da964f4f87d051373d2dabd5,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+320,b41e1420a7e7418a9cfccab12d4478f8,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+321,b499d689ce01489bbd72c2b16414e176,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+322,b6ab75102f55450fa38a377128209978,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+323,b733c596c133476fa654b4bd20e38829,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+324,b85bd0ea4c9c4233b405ed75037c111c,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,chưa
+325,bbfa3bc12f4c482bb0b7601486b7b8ca,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,chưa
+326,c0b4585aea2840c386a2cb8d6436d40a,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,đã tiêm 2 mũi
+327,c2f09615752648f1bdcf1393c06a5f58,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+328,c4674d93eb164a0c85f9c9a885b3012c,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+329,c5f086fa86ca4a679b3951c8a4909e3e,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+330,c70279875f1f4d299b4b16a74036a458,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+331,c973ea54fb7f44a3b5bfc83f221ab200,Border Collie,chó Border Collie,đực,02 tháng,đã tiêm 2 mũi
+332,c9aef1163f1f41468955b029c5b6036b,Border Collie,chó Border Collie,cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+333,ca0695f1a70940b58f89c2e87d4bd697,Border Collie,chó Border Collie,01 cái 02 đực,02 tháng,đã tiêm 2 mũi
+334,ca6beff356624191b7a8f6282ff26031,Labrador,Labrador Retriever,02 đực 01 cái,2 tháng,chưa
+335,cb57931695cd4fd0bd26c467b156383c,Shiba Inu,chó Shiba Inu Nhật Bản,cái đực,02 tháng,chưa
+336,cbf5b99d0fff45ecadbefc9b4d8a41e0,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+337,cc438e2f83434c1e8d118277046d28bd,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+338,cc75ba81d4ba4e8d9ddc6985a33281f2,Poodle,chó Poodle Tiny,cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+339,cd46a3dcb51d4514985792afba7f0761,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+340,cedcf7d5dd8646b1b948cc4b1cb4f49a,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+341,cfc63c069c444b29916a84597d10f9ba,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+342,d127fe59b3b844b3b0409d088000b1f4,Shiba Inu,chó Shiba Inu Nhật Bản,cái đực,02 tháng,chưa
+343,d66793fe3ab74648936e51fe4796b37e,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,đã tiêm 2 mũi
+344,d7b3b2e5ce724107ac526ad2a0c99558,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,đã tiêm 2 mũi
+345,d90ccd5332154225b2935b3c6c9e8055,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,chưa
+346,dd599e03f3014123ac12db5ee04e62e5,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+347,ded1f564fe3a432eb6eb45d38fc092f1,Shiba Inu,chó Shiba Inu Nhật Bản,đực,06 tháng,chưa
+348,e03bf713ce854dd1ac528b93c26f6c96,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,đã tiêm 2 mũi
+349,e1d3f35f24544dc08984fd32c6a1c138,Labrador,Labrador Retriever,đực,2 tháng,chưa
+350,e372cec1c29c4ecc9bd1e884e3acd2ed,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+351,e3e2a2d1ed7c4673a64020dd5cff233e,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+352,e4041077849a47b898d40582b60356db,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+353,e5b00f08eced4fa68d0b5ab86614788b,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+354,e933b71ed9ba4dfb80a5c9b21643de48,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+355,e97effdd71df4be49cf9c4b9f1bb198a,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+356,ec58ef48e4bd47b29d23d03b2e0fc363,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",02 đực,trưởng thành,đã tiêm 2 mũi
+357,ec732f0e0a6144f89933002161d5c05d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,trưởng thành,đã tiêm 2 mũi
+358,ed96488926f741e5b60f1e1efcd787c4,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,trưởng thành,đã tiêm 2 mũi
+359,edc99c7e9b5d402197c338afc8b43760,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+360,f54d4d8ab6634301bb961755625ed1a1,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+361,f75a5a22391141ed90c29e9842fd73d7,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+362,f80a3fef92ee48e89531936284dc215b,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+363,fab1ad72d6ec46928e9f0848ee8979c9,Poodle,chó Poodle Tiny,02 cái,02 tháng,chưa
+364,fd31464783c7400fb49d9065d3ef292a,Labrador,Labrador Retriever,02 cái 03 đực,45 ngày tuổi,chưa
+365,ffa9656e1f7048588f171127c5de1dc3,Labrador,Labrador Retriever,01 đực 01 cái,02 tháng,chưa
+366,0ed5ef1ed942489694d6ac0818c21391,Golden,"chó Golden Retriever (Gâu đần), Labrador Retriever ",đực cái,02 tháng,chưa
+367,2a21a19b807c4a30ba29a0721ae81443,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+368,e62f497400a449cdbdcc702e8da073c5,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+369,04f8a701c1a34a2f85a9a2df48ed3d06,Poodle,chó Poodle Tiny tai bướm,đực cái,02 tháng,đã tiêm 2 mũi
+370,0569b63889294b03ab94ce49f695bfa1,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+371,05ed9085d54b4f3d92e4c3e5223d9771,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+372,066fe40fde67493884713af57393ec93,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+373,0750168f69f24641b046259337132f00,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+374,0bdd8f30df0247b2b4447e78f6469a62,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+375,10702525601a40d9a08b7e11341cb115,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+376,14ce25301c604c379e37bafa96bc0182,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+377,179132fbe27c4f3c8eab5a547d51a6d3,Poodle,chó Poodle Tiny,cái Tuổi: 02 tháng,02 tháng,chưa
+378,1a8946eb8af848de8e1f9de6e78c0e6f,Poodle,chó Poodle Tiny,cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+379,1d1c1f76f6974783918b78e253d4beb1,Poodle,chó Poodle Tiny,cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+380,2439be0f1d3c449e92c410fb03dd2686,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+381,3b3d641cc46d4194b2bb2f42ee2ee627,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+382,4980f15ae22348e28c5c8313ee26193d,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+383,49c9a55f2e7445c0af0616b196041ccd,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+384,4be9c06a3ece4889b3b81f62252882db,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+385,53115a2b82bc48f2bab2f613c1130e33,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+386,55f9d80acf2848b58e1255555bb29e54,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+387,6296493caafc416abccd4745a3c5b3cf,Poodle,chó Poodle Tiny tai bướm,đực,02 tháng,chưa
+388,65f86bb97e2043b39cc880560294c3d7,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+389,67d26eb3c49440feaf7fb1e0c02bcabc,Poodle,chó Poodle Tiny tai bướm,đực,02 tháng,đã tiêm 2 mũi
+390,698be8e893ef4c79bbdc9ffb47dccb60,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+391,6cf33e94d756440397417bfdd63c5f80,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+392,73d4e4a56c3a470d9de08d20746eecac,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+393,867b5f727839474581869f7e95cb2512,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+394,88de20041b754c17aab660c70704ac3d,Poodle,chó Poodle Tiny tai bướm,đực cái,02 tháng,đã tiêm 2 mũi
+395,89e718f8de474e4abcabf37fe1118fde,Phốc Hươu,"chó Phốc hươu (fox hươu, phốc, fox)",đực,03 tháng,chưa
+396,955ee816848a44ef83dc3953fbf32d1a,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+397,95848d06267d419691c493cd75992e17,Poodle,chó Poodle Tiny,02 đực,02 tháng,đã tiêm 2 mũi
+398,977b7b2c40d24b55acf653c42bad9f6c,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+399,9abcb19bd8ba4e0b964a4b70722f68a9,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+400,ac7d75b2f9bf4f2497d5c5bcd526587f,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+401,b33a2b7a5c4044e6bc2b671d87144df0,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+402,bc791d273d90446e834628ac82f33e10,Shiba Inu,chó Shiba Inu Nhật Bản,01 cái 03 đực,02 tháng,chưa
+403,c5da75da0a60468a9503d10e09633c87,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+404,d228a4fac9f248c1905e9fd0209d9d97,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+405,d64b7bc5f3354c47962530350559e6ac,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+406,d7698823838a4261ab0a44e7a613f143,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+407,e73743501b7f40eabe063cc841b246b7,Corgi,chó Corgi Pembroke,đực,25 tháng,chưa
+408,e8c7f6f90fbe445e949ddbc5675d21c6,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,chưa
+409,f4052b9c1cb74bbb9ab760257820f573,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+410,1be7cb22c9314711a7f14e81fbe4988f,Phốc sóc,"chó Teacup Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+411,205efac4fecf4573bd2445a3d04702d2,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+412,25cd7790665746179c7dcdc71d69987d,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+413,2c74a2e0ed3a4f57a75ecdf6519054df,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+414,2cd30910dd6d41d9bbf9097dfa9a2eec,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+415,2d6042d888b34c5bae53c6f7eabaec13,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+416,3208db9fb4654b298fd73ae13dc1ee48,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+417,42e9c081e1504c979fbde209834c8061,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,đã tiêm 2 mũi
+418,4fb9a41b03cc497184f779b5bd509621,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+419,7da8869be6ad47c1b8a734c3a2fbe9b8,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+420,97ef4543d5574bd7ae6bd83bc49a66a2,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+421,9966a7aacb694c41afbdba9c13ac5b95,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+422,a3a4c218a50445628b7ff59510353a60,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,đã tiêm 2 mũi
+423,ae9a5993989e4d6eb8bdc533eb44946c,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+424,b724ffeee31e42529e357b8e201764f3,Corgi,chó Corgi Pembroke,cái,02 tháng,chưa
+425,b9fdc76b75c448cebfcd4618889b319b,Corgi,chó Corgi Pembroke,04 đực,02 tháng,đã tiêm 2 mũi
+426,3d0fd5eafe85457eb67301fa1d8f093d,Poodle,chó Poodle Tiny,đực,03 tháng,đã tiêm 2 mũi
+427,6783c5e01f6f4d5b819201eeb294e64a,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+428,963702ccedda4797a6b91f786ada50f9,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+429,a613dcc669874ed4b3eceaffb478e5dc,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+430,a8ea6d0c635748df85cd5107acfc9a69,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+431,035b2967562b420aa12c2ce6dc29dc2e,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+432,062ba3b1f2124210b4e56bdfac2104fb,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,chưa
+433,2138b193d8ca48b696e322a48771b7dc,Poodle,chó Poodle Tiny,03 đực Tuổi: 02 tháng,02 tháng,chưa
+434,224e73d71bb54eb6bb4a37812ef93b85,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+435,2d4f3e3a188f4952ae91de87820e97bc,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,chưa
+436,2d9110b16a4343d996b3a5f827dd1613,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+437,3771becdbebb45fa95d3ac7b5b119da9,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+438,392338f1b9d9456da1784aa826c3c196,Poodle,chó Poodle Tiny,02 đực,02 tháng,chưa
+439,3c4f5b872e9c4fc6a4a9243a439e4527,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+440,449189ebf5784f95aacb931e32fd3f21,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+441,48e5c523e02d4a10b5f053a3cfd35acb,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+442,499f427d61b7429db52601ae3180163e,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+443,4f4b727b3e5a45a98501edc11d36faa9,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+444,5bab6b7e85ae4078a9815e97a7b82050,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+445,5ea109fee5aa4c139b8248abfb4db577,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+446,632feb7c89e748e6a0321e46701a7c48,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+447,675725e51f054a1cb60a39fd97c185ab,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+448,7615632e38e14e2fa2267aaf9d3ade78,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+449,84d04ad4d3504c349de1fb828458ecb5,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+450,9332d574fb8e47e3b410c03952738180,Corgi,chó Corgi Pembroke Fluffy lông dài,đực,02 tháng,đã tiêm 2 mũi
+451,9a901c03682f424c9116b39cce9e65fb,Corgi,chó Corgi Pembroke Fluffy lông dài,đực,02 tháng,đã tiêm 2 mũi
+452,a2f6ef023feb4accb3a0ad6500a9c753,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+453,aa9044becbbb49199524af66166b2225,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+454,b81482c4b3784c2989a8cad7880cae06,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+455,c5801bd8ab264b2b84c4b04d088c9a7b,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+456,cd54d37004eb4142af9ea887fd483467,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+457,d9f991620ef34037be463eae99901022,Bull Pháp,"chó Bull Pháp, Màu sắc: đen",đực,02 tháng,đã tiêm 2 mũi
+458,e126aade1fe9455192465b3a0c3eff61,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+459,e987c03e43e344008fd38c854f2ee278,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+460,e98ca761203d4ee98a86fd9fe91cfdbf,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+461,e99f6f4470ca426991aa0864861ce272,Akita Inu,chó Akita Inu Nhật Bản,đực giống,trưởng thành trên 1 tuổi,chưa
+462,f5cae3af08a94b268ef75a48721702d6,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+463,f8546027ff7c4ebd8a84d7f3b9db1757,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+464,1f247597f4a24dbc8dd343c5c009a4c2,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+465,2bd9ce18440740098d528a90dd10cf6f,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+466,3366f52bdedb496ab450eb6f2eada59d,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,đã tiêm 2 mũi
+467,36f4a8d26784459cbf373afed8161d6a,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+468,d4c5a60522f54bd3b4c72ac9713a6443,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,đã tiêm 2 mũi
+469,d7205d886601405995582d13697a9f40,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,đã tiêm 2 mũi
+470,22fe211cb1c04bb49b24422b6a7a8e3e,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,chưa
+471,49f8ba110df94199ab30014f219ef82a,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+472,cd8e864eafd94a66be34657912d965a3,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+473,010afa197c084704b5b1f5013085efd8,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,đã tiêm 2 mũi
+474,04ac5ea1ad994fc8858a2814cccc1b3c,Poodle,chó Standard Poodle,đực,2,đã tiêm 2 mũi
+475,458857ea4e044b53b61922c7aacdb190,Akita Inu,"chó Akita Inu Nhật Bản (lông dài, fluffy)",đực,02 tháng,đã tiêm 2 mũi
+476,66e48fae09c5479ebc4ffe709f56dab2,Corgi,chó Corgi Pembroke,cái,03 tháng,đã tiêm 2 mũi
+477,751f204eb3e74e8e81b5850b18f5b6da,Corgi,chó Corgi Pembroke,cái,03 tháng,chưa
+478,9c574715374a47b7b9d1edcb3b694d47,Corgi,chó Corgi Pembroke,02 cái,03 tháng,đã tiêm 2 mũi
+479,ccf2f6162dca48fe9ad07e6fc4059915,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+480,0337cd9582f741519112729d59ba7233,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+481,03f6a6de739e4c928558c0285adf5871,Golden,chó Golden Retriever (Gâu đần),01 cái 01 đực,02 tháng,chưa
+482,059a020b920b467fa72ac951bdbbc9bc,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+483,0748d5e29ed54f299e2045bdbba83199,Golden,chó Golden Retriever (Gâu đần),cái,02 tháng,đã tiêm 2 mũi
+484,090d8fd98d6f4762b1d81265e6ccd130,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+485,0a0516b80e1a4997b073defdc022e75e,Corgi,chó Corgi Pembroke,đực cái,5 tháng tuổi,đã tiêm 2 mũi
+486,0c22a6d9d3dd4ca69625f1fcfe8340ec,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: đen",đực,02 tháng,đã tiêm 2 mũi
+487,0d4e182458f44e3a9304d4be92ba096c,Bull Pháp,"chó Bull Pháp, Màu sắc: trắng, Giới tính: cái, Tuổi: 02 tháng",cái Tuổi: 02 tháng,02 tháng,chưa
+488,147a920daf9b4d83893ceb18dc386eb3,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái Tuổi: 02 tháng,02 tháng,chưa
+489,157f2cbd1edb43f9ab162f009c915a56,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+490,16831a0621f5446a93bf152bdebf45b3,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+491,17882c0a64d04f74b9507051d027d208,Samoyed,chó Samoyed,đực,02 tháng,chưa
+492,19bdbba6a3e54953968c5ec183ed23e7,H’mong cộc,"chó H’mong Cộc, chó Mộng Cộc, Màu sắc: nâu, Giới tính: cái, Tuổi: 02 tháng",cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+493,1a1af958812d4476a147c14788ee54ad,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+494,1a43910b323245d48cf5a0da59e6b697,Rottweiler,"chó Rottweiler (rott), Màu sắc: đen vàng",đực,02 tháng,đã tiêm 2 mũi
+495,1d683abd69bc4e46b39ad2ebdc4c9705,Bully,chó Bully American,đực,03 tháng,đã tiêm 2 mũi
+496,247c2839ffc847b98bf8d73ddde057ed,Basenji,chó Basenji không sủa,đực cái,04 tháng,đã tiêm 2 mũi
+497,279fa3e3910a4602bfa4e9ccbe6685d4,Pug,chó Pug,đực cái,02 tháng,chưa
+498,27d3e06bcd1641d7b41d3c92151619ac,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+499,28ab13a1f76b49f1af4ea8ca7c9d3d00,Samoyed,chó Samoyed,cái,02 tháng,chưa
+500,2908a4ff7eaa458c8b3e22b7039ee065,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+501,290ccd8e3cb84e18970cebe38a374e59,Alabai,chó chăn cừu Trung Á – Alabai,đực,4 tháng tuổi,chưa
+502,294b7dce70dc4ae68dea11e2697947ac,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+503,29daa67c21714f0bac47813179147834,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+504,29df5550089343bbb64edb2713d10dd2,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+505,2a457ad08f2346a6a307df1e30d2c973,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+506,2bd4f445426447b0a032c45cfb9d801d,Labrador,chó Labrador Retriever (Lab),đực cái,03 tháng,đã tiêm 2 mũi
+507,2d3ba0e908a14906ac79e128b96527d7,Husky,chó Husky Sibir,đực,02 tháng,chưa
+508,2d6f0654243f45118322139e693bdf23,Husky,chó Husky Sibir,đực,02 tháng,đã tiêm 2 mũi
+509,2da5eaa5d9384f5abc2fd57e5b292584,Border Collie,"chó Border Collie (Collie biên giới), Màu sắc: nâu đỏ, blue & lilac merle, vàng, đen trắng",đực cái,03 tháng,đã tiêm 2 mũi
+510,2dcfd8a75f2146968ad37fcd57fa6889,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,đã tiêm 2 mũi
+511,30816758f89e401bbf93d0dd5666cb3c,Husky,chó Husky Sibir,đực,03 tháng,chưa
+512,319d36ef40714c8d9d1e9be1977b5785,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+513,34f7b4dcf1424370967f240af18f7a51,Alabai,chó chăn cừu Trung Á – Alabai,đực,6 tháng tuổi,đã tiêm 2 mũi
+514,35a2714c2f2144b9b5a9f826d8c022bc,Chow chow,chó Chow chow,đực,02 tháng,chưa
+515,35a436f4ee5b4aab905c1b8c50fbcaaf,Basset Hound,chó Basset Hound,đực,02 tháng,chưa
+516,370c143c416f455e8674ba0df27d697c,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+517,3717569552254f2eac65afbda3eec911,Chihuahua,chó Chihuahua,đực,02 tháng,chưa
+518,373468ffd98c4630aeacfd2fb06f1a5a,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,chưa
+519,377426f2f6204b97967fe7bd03136368,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+520,37a499d0eb5643a1a747334d6209e4f3,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: bò sữa",đực,03 tháng,đã tiêm 2 mũi
+521,3adefb352f384590bb87ebca310c6f9f,Pitbull,"chó Pitbull, Màu sắc: nâu socola, Giới tính: đực",đực,02 tháng,chưa
+522,3c53e4ababbe4b739582e8ab1c5bd2e5,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: bò sữa + trắng",đực cái,03 tháng,đã tiêm 2 mũi
+523,3d43449ceb384a75a5f237206e84f83b,Bully,chó Bully American,đực,02 tháng,đã tiêm 2 mũi
+524,411d773b737d47bf97d122a8ff9d847f,Poodle,chó Poodle Toy,đực cái,02 tháng,đã tiêm 2 mũi
+525,4403e27d41164e7e8542f84ed429108c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+526,45282e76d74b4030a4380ee05ba71a52,Becgie,chó Becgie Đức GSD,đực,02 tháng,chưa
+527,475ff8c6c7664bd6b807e833c8ebba83,Border Collie,"chó Border Collie, Màu sắc: lilac blue merle 2 màu mắt",đực Tuổi: 03 tháng,03 tháng,chưa
+528,499b5c6aad4d4ba2bf37f94fc0d77b20,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,chưa
+529,4aa1ee001d634487a29a1cb9ace84004,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+530,4b64e6a5d6884a6bb0cfc5c7e87ec063,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+531,4d083753acb846ee9cbb9b6d465d2626,Labrador,chó Labrador Retriever (Lab),đực cái,02 tháng,đã tiêm 2 mũi
+532,4ebce99bf5534554977ed39ef19e1ff7,Lạp xưởng,"chó Lạp xưởng (Dachshund, chó xúc xích)",đực,02 tháng,chưa
+533,4fe05bb84e304381bd0cfaf6f589cc00,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái Tuổi: 02 tháng,02 tháng,chưa
+534,50f945be1a6e4a3b9542e780414df7c8,Phốc sóc,"chó Teacup Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+535,529d32f839be4e78a95da616f15d19fb,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+536,52ceb7b9d18b483986c34c7334168b4f,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+537,545fc0f9aad14d15999306a6e0efbd82,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+538,55497f287d33428abd7cd7724b93c4c4,Phốc Hươu,"chó Phốc hươu (fox hươu, phốc, fox)",đực,02 tháng,chưa
+539,56aa697c86674971823b73f5bbafd1de,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+540,5913a9b7aff44a5ca2a390568de4de11,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+541,591fe3650f514b28b30f2a6faa057bbd,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,chưa
+542,5acb2d1fd577487880442e4bd52724b4,Poodle,chó Poodle Standard khổng lồ,đực,02 tháng,đã tiêm 2 mũi
+543,5b546f6296074de083875a395bfbe17f,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,chưa
+544,5ca5166e8b0f46859203139db8f8a0d7,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+545,5d1169a97fd04d648de2fb548b4c39c8,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+546,5d3e69b41547479888a7afcd03ff392a,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+547,5f12ab92aa3446bba93c4044bb9dbeb1,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+548,62fa289c0dd14b48995dffa1e576643f,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+549,63159bceb6164662b8e5aca54dcd5a34,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+550,64fb15cb8cf042d490ee763d21c5a2de,Poodle,"chó Poodle teacup, Màu sắc: vàng kem, Giới tính: đực, Tuổi: 02 tháng",đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+551,654f108301cf4caf825c90d636f0427b,Poodle,"chó Poodle size teacup, Màu sắc: vàng kem, Giới tính: cái, Tuổi: 02 tháng",cái Tuổi: 02 tháng,02 tháng,chưa
+552,67b62e5ef27b4b0081c7cf3872cfcc6d,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+553,6ab72df4b5d14c00b3be7b79ab6e6cb0,Corgi,chó Corgi Pembroke,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+554,6b229494b67d4f9eb70f4da5b7a634ed,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+555,6bcc5e244b174e32af4027908a1a7bfb,Poodle,chó Poodle Tiny,cái Tuổi: 02 tháng,02 tháng,chưa
+556,6cb73d5dc22345918c315a8d11c5d771,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+557,6df7dc0578a046f0b4328bef17025342,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+558,6ecbc22287644496a9e11325a10d294d,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+559,703be427d3324260bfb3f3ec94c57dff,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+560,7290ed3ac51d493999ea2926936a010c,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+561,73bea497c9984dd993b46c4e5aa1b96a,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+562,76bf2e14b2224bf2a6a7eb6c45cb6917,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+563,784d058c5cd5464f9f9dc784ddf5463c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+564,786ccfa080f14f89b713a7eb1b232991,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+565,789484c6023b43c184139518c645e244,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+566,7928f4fbb9c24f35b6ae1788555a275b,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+567,7962b7ec41fb47d3bf385ede9cdbbeca,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+568,7be6393bb39445d089483184ba589e19,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+569,7c074de067d04f54918d4f3c3acdbde7,Chow chow,chó Chow chow,đực,02 tháng,đã tiêm 2 mũi
+570,7c25c9f89b504c56be4ed1bbf8497c89,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+571,7e848f3a523c431096d76cb5fa5c21e3,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+572,807c142b1fa240ff8a64fac0beea4bca,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+573,89606fa1934041c7827c7bea6e329c5c,Beagle,chó Beagle,đực,02 tháng,đã tiêm 2 mũi
+574,89db413ddd4d40ba8aa3de47dccd21e3,Phốc sóc,"chó Pomeranian (Phốc Sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,chưa
+575,8a01101a818344d8aa7c7b5e17cfc26a,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+576,8b67c788c05b4987b8faa2d226c1e0ad,Phốc sóc,"chó Pomeranian (Phốc Sóc, Pom)",đực cái Tuổi: 02 tháng,02 tháng,chưa
+577,8dd80d52ed1a4a58b76fc718df799b0d,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+578,8ec8c962657c46dc9943eaf6a3fe1767,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+579,8f989d1fabd343a392e3bb16b1a946c3,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+580,91bac0ac0a5e403a8deff9388c753795,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+581,92df37e3cf3c4f2dbfe02701b12c3045,Samoyed,chó Samoyed,đực,02 tháng,đã tiêm 2 mũi
+582,94860b2c96fe4a90a5ecca8c3ad58dad,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,chưa
+583,96621a909147456b947e39a8a662b43e,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+584,9a1d7d47d1f549f1b527341bce66c704,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+585,9af483c3040944e3985607436d7ed3d0,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: trắng",đực,03 tháng,đã tiêm 2 mũi
+586,9b24da5024f84537b29ffbfed6b0d0fc,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+587,9cfe7f9c887243abb26111c9dfdd2ea1,Poodle,chó Poodle Tiny,đực cái Tuổi: 03 tháng,03 tháng,chưa
+588,9d51658d44884aa6abfe54420eadfdf7,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+589,9e591a856b5c490db9be46ccdae4da56,Corgi,chó Corgi Pembroke,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+590,a0823edcef25486d86fbddd210cf4c66,Corgi,chó Corgi Pembroke,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+591,a1c32f8ba39b41aca6a27da40b77a520,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+592,a227bcc320d240409d9b8dd3d102c257,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+593,a2c7e1f7d5664f71ac2d8040cb7161c2,Pug,chó Pug,đực,02 tháng,đã tiêm 2 mũi
+594,a332a3a9428a4fcf9ef629346b752c54,Beagle,chó Beagle,cái,02 tháng,đã tiêm 2 mũi
+595,a48f01d307c14c12b85afb8f97df7b8e,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+596,a5b15018a8174e6eb129fabba5e21f23,Pug,chó Pug,cái,02 tháng,đã tiêm 2 mũi
+597,a5b3e293d02e4161b6a5606557f26719,Husky,chó Husky Sibir,cái,03 tháng,đã tiêm 2 mũi
+598,a6296d9c7f994ba39858ca53e1686d4f,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+599,a6940e55e19e4fbaa7107863f3d8421f,Husky,chó Husky Sibir,đực,02 tháng,đã tiêm 2 mũi
+600,a751e470f64045139c79d0c53d002001,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+601,a8d0dbdc10c347deb0690e271c209ef7,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+602,aab3f76a6a814fb2a3b67a354389240c,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+603,ab1ad74a812341898dd637941213fb0f,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+604,ac190ddc06014c2fbf33a4a2afda698b,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+605,ae6c118b0836465986aa5530082fbff0,Husky,chó Husky Sibir,cái,03 tháng,chưa
+606,afbfcf6ee1944e3faa167a04a0750702,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+607,b0b582a2c5cb4ba6a9e0987ae4470f19,Border Collie,"chó Border Collie, Màu sắc: vàng",đực Tuổi: 03 tháng,03 tháng,chưa
+608,b19cb556ccf3477ab9dfc40193a1415a,Border Collie,"chó Border Collie, Màu sắc: vàng 2 màu mắt",đực Tuổi: 03 tháng,03 tháng,chưa
+609,b2429909898c4fd1bcd4ec41290784bc,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+610,b2743221ff6243029dc9ed842c33b51e,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+611,b4e14493f2df43b9b02bd71e11195b0f,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+612,b5338e68db774ba5986e6deacbb84f6a,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+613,b543850a26884ea79ba75c5c41aa690b,Samoyed,chó Samoyed,đực,02 tháng,chưa
+614,b774c647b33d4ab4ad452d85647d7e2e,Samoyed,chó Samoyed,đực,02 tháng,đã tiêm 2 mũi
+615,b7f4befd40a5460fb1c685628760c6c5,Samoyed,chó Samoyed,đực,02 tháng,đã tiêm 2 mũi
+616,b81fe6413e8a4b22ac917a8a8607780f,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+617,b880fc8519b34c159b1957d9d54e87ce,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+618,bae3a01ab8024ecf88553ab857dba51c,Samoyed,chó Samoyed,đực,02 tháng,đã tiêm 2 mũi
+619,bc20ec4e6f624064aed469ea6906d0f5,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: blue",đực,05 tháng,chưa
+620,bc979b18a236494ea66b88583247f301,Chow chow,chó Chow chow,đực,02 tháng,đã tiêm 2 mũi
+621,bdc3868c06ca459e874cc121cfc00b11,Phốc Hươu,"chó Phốc hươu mini (fox hươu, phốc, fox mini)",đực,02 tháng,đã tiêm 2 mũi
+622,be437750bffd42a48da8748e8dd73497,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+623,c1940bf8c27e4087a484c69d4f566b00,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+624,c860379d56ff4ecca3947b333d3e4c64,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+625,cb280566be154eafa1851f57a9a35308,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+626,cce2e2709cc74b9292e81d51431f06c0,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+627,cd622aef81784782a1c52f5682761798,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+628,ce8fc3e711b543739722f78ab05ef1a2,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+629,cf537415586749f6b20e6d57b0a70489,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+630,d04d22dd798b4186b5592c5cd894e4d7,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+631,d3b6a5ae4fc74336a83243be604aab55,Chow chow,chó Chow chow,đực,02 tháng,chưa
+632,d68f0344db7c4e0a848a46d8500fa066,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+633,d6a65662afa6405ba7718a596d540ac6,Border Collie,"chó Border Collie, Màu sắc: đen trắng",đực Tuổi: 03 tháng,03 tháng,chưa
+634,d756d8e39a094289b2008bfc7916638c,Pug,chó Pug,đực cái,02 tháng,chưa
+635,d7bd5930661e4488aa88b7ae9311ced2,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+636,d7e11c1e46c943309db04bd231cd7a30,Corgi,chó Corgi Pembroke,đực cái,02 tháng,đã tiêm 2 mũi
+637,db33f95c4c1949e08eb9ae795f07a806,Border Collie,"chó Border Collie, Màu sắc: nâu đỏ",đực,02 tháng,chưa
+638,dbbe6112f3324ae889ad35ed113138c8,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+639,dbcc01658e8a4579bb866c9d4356a837,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+640,dc2d950920c94effb9df3d55c55839a4,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+641,deee0c10b55b411a9b694b539798af9e,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+642,dfad8634e87a4a0bb655684921e2ebbb,Husky,chó Husky Sibir,đực,02 tháng,đã tiêm 2 mũi
+643,e1d466919eea4067a346db2a2a8083fc,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+644,e1ef126fb3574b12902160699d3830dc,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+645,e2938c7955c849848c34488184adbe0a,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+646,e7bea341baac46e5beb8df03ace1f9a5,Bichon,chó Bichons Frise,đực,06 tháng,đã tiêm 2 mũi
+647,ebec7d102eb84530810bca5334051574,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+648,eca85de88b804a2599f738e12ef532c5,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+649,ece2f9252af1411c8e0c542a5246c28f,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+650,eebba02d7f2645d197b023644752bdb0,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+651,ef11da5dfac142c7a468480d5eb184ab,Labrador,chó Labrador Retriever (Lab),đực,03 tháng,đã tiêm 2 mũi
+652,f0d4098a34f7485b98e4dc26a7801320,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+653,f1650e652a2a40acbd6cc7167e6db38d,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+654,f1ea2f52744d4393b43f15ee4124f142,Poodle,chó Poodle Tiny,đực,03 tháng,đã tiêm 2 mũi
+655,f737025d17cd44b6bedbc094d0ab0dc4,Poodle,chó Poodle Tiny,đực,03 tháng,chưa
+656,f7537b5d9a8f488cb06db13f31b13db2,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+657,fad0f30145954c6983073ebf80902b78,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+658,fcb4728cdf3640939df230de7e50807c,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+659,fd3a7ecbf10543ce83d0231e3c49cfc4,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+660,fe01a1cd5a9a48ccaed7dd2ca789a09f,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+661,fe179d81e35744478bb0142a674d137b,Alaska,chó Alaska Malamute,đực cái,02 tháng,chưa
+662,28d3e5aba025409297b45937b43f60a1,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+663,00b46ef80de04a28ba151d20f5f908b0,Border Collie,"chó Border Collie, Màu sắc: vàng, lilac merle 2 màu mắt",đực Tuổi: 03 tháng,03 tháng,đã tiêm 2 mũi
+664,022bfdc055fb4add88cbf8e2efeb34f4,Samoyed,chó Samoyed,đực,02 tháng,chưa
+665,02f2babfab784081a2735f0f68554b45,Border Collie,"chó Border Collie, Màu sắc: vàng, đen trắng",đực Tuổi: 03 tháng,03 tháng,đã tiêm 2 mũi
+666,0404ada8879b415fb38bb7bb4b16d505,Samoyed,chó Samoyed,đực,02 tháng,chưa
+667,075478ba24b04677b0bb77a5fd17ec73,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+668,08eccc17ede14b70a30f496bcd741a98,Alabai,chó chăn cừu Trung Á – Alabai,đực,6 tháng tuổi,chưa
+669,09ba4a96565441e29b643fc67991e193,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: bò sữa + trắng",đực cái,03 tháng,đã tiêm 2 mũi
+670,0a5f30bc930d414fb7a64e665d6c7529,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+671,0b2e1c72ac524aa18991b39bec99ff46,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: bò sữa",đực,03 tháng,chưa
+672,0b7db87ad12d45beb4b5bc20dfe4f7dd,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,chưa
+673,0bb8396aac174b91a02436054acb0c04,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,đã tiêm 2 mũi
+674,0bce546a8dff4ae4a3e55666be2983ef,Border Collie,"chó Border Collie, Màu sắc: nâu đỏ",đực,02 tháng,đã tiêm 2 mũi
+675,0cced25e04e346c2ba20049ca58227b4,Poodle,chó Poodle Tiny tai bướm,đực,02 tháng,đã tiêm 2 mũi
+676,0ec0c9e2f1234d5193f16aec416509c3,Pug,chó Pug,đực,02 tháng,đã tiêm 2 mũi
+677,1264a10ad6144737aa3d8cb1de43f7fc,Pug,chó Pug,đực cái,02 tháng,đã tiêm 2 mũi
+678,12a2fe6c46c145779ad7f48ce7a237f8,Becgie,chó Becgie Đức GSD,đực,02 tháng,đã tiêm 2 mũi
+679,166645e8291b4113b4925aac538f86b9,Becgie,chó Becgie Đức GSD,đực,02 tháng,đã tiêm 2 mũi
+680,198f9853fe8041cfa4d47b67d860ae79,Border Collie,"chó Border Collie, Màu sắc: đen trắng",đực Tuổi: 03 tháng,03 tháng,đã tiêm 2 mũi
+681,19dfe7bf5b4647378093d4100f5a4f95,Pug,chó Pug,đực,02 tháng,chưa
+682,1a12aeec1aba494b9adb34beb25f4953,Border Collie,"chó Border Collie, Màu sắc: đen trắng",đực cái,02 tháng,đã tiêm 2 mũi
+683,1aa3eb6bb74b45898fb2ff9bb3ce5e3c,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+684,1aee45b727244a5e8a6f577b2ef73859,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+685,1b7e3556abbb485a833e71eaf58ff814,Samoyed,chó Samoyed,đực,02 tháng,chưa
+686,1bdfa8acb9c943e681a2e72df9033b8b,Chow chow,chó Chow chow,đực,02 tháng,chưa
+687,1c2a2a4a86cc40538efca23a78b85671,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,chưa
+688,1c4603d3cd8d47f7a439371e39c0f63d,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+689,1dc30c3fdd9e4aab9307fbf9a0fa7b79,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+690,1df6579ca23f40028419f93670ede1f4,Labrador,chó Labrador Retriever (Lab),đực,05 tháng,đã tiêm 2 mũi
+691,1dfcf1b3398c4be389dc3ea1cbb4e1a6,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: vàng bò",đực,06 tháng,đã tiêm 2 mũi
+692,1ebb211a36784cf3a0c11362b3668f5a,Chow chow,chó Chow chow,đực,02 tháng,đã tiêm 2 mũi
+693,1f380e1b2b834f308c44d545331d0f6f,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+694,1f3f981a40ad46a4ac2b9547d546ddb3,Lạp xưởng,"chó Lạp xưởng (Dachshund, chó xúc xích)",đực,02 tháng,đã tiêm 2 mũi
+695,22f53d3eb4244122ac55ee0701531677,Chow chow,chó Chow chow,đực,02 tháng,chưa
+696,23152867737f407c8c9c72e2b30f722f,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+697,2513b21434104d86921504776336e164,Chow chow,chó Chow chow,đực,02 tháng,chưa
+698,265a2eb2046f449aaa28338b816d7610,Chow chow,chó Chow chow,đực,02 tháng,chưa
+699,27154331c40d4aeabe48cf483e0136f9,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+700,271c99de32ac4feabab682d346c1fdba,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+701,273d9380e516494fb2ca5351bde54517,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+702,27f8084171564199a4ae453cd38ce62a,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+703,295f568c746d4b6d93286866cbfbdd2d,Poodle,chó Poodle Tiny tai bướm,đực,02 tháng,đã tiêm 2 mũi
+704,2b10adb39f83413a9a0c9e0a1c42fdfc,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+705,2b26963a3ca24be7b6577226bdbc945b,Golden,chó Golden Retriever (Gâu đần),02 đực 02 cái,02 tháng,đã tiêm 2 mũi
+706,2b7a1c243c1e445694ea1087b2912d3f,Golden,chó Golden Retriever (Gâu đần),cái,02 tháng,chưa
+707,2c20cd38183a49c0819a4cbbd5dd5bb8,Golden,chó Golden Retriever (Gâu đần),cái,02 tháng,đã tiêm 2 mũi
+708,2c336420b654446ea39ed83eb4495378,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+709,2c60fa945d75413cb0d9bd52b6c80f48,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+710,2cdd8bbe96b348dfb4cf4f559ecef3ab,Phốc Hươu,"chó Phốc hươu (fox hươu, phốc, fox)",đực,02 tháng,đã tiêm 2 mũi
+711,2d969bcd8fb144088225ccc6ae6dbe41,Pug,chó Pug,đực cái,02 tháng,đã tiêm 2 mũi
+712,2e4aede3891a4290a3a3bf4563cb5083,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+713,2f1e60e582934759a9da63e62444c20d,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+714,30e5da64db174d808c89e977ea66dcde,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+715,3152c3ef3e9d41498bfae644c5ab3863,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+716,326772126c8b41a194b5162647799350,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+717,327d67de85314880b45c6fe7bdc725ee,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+718,34ed3930283142c6b8707a5d565ae694,Shiba Inu,chó Shiba Inu Nhật Bản,01 cái 03 đực,02 tháng,chưa
+719,35a2ff05b2024a798671165c0e9ac8f5,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+720,3603a98f6925450bb74b9fccf0ac335a,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+721,3604c0f122d844e89b1f3113b7fd4a65,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,chưa
+722,37835480b0e54d3084a936106c54ebf4,Akita Inu,chó Akita Inu Nhật Bản,01 cái,02 tháng,chưa
+723,39345f4b442248d68b1ca342ab9517f3,Akita Inu,chó Akita Inu Nhật Bản,01 đực,02 tháng,chưa
+724,3bd81b06975a474fb19219b9e00e1ef8,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+725,3bf8a9757fb641ef83c5d270ccc6a1fc,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+726,3c69ca07aecf406692c7271c707fb5a0,Becgie,chó Becgie Đức GSD,đực,02 tháng,chưa
+727,3d5a0e99517447da9d8ffffd9ab0952a,Husky,chó Husky Sibir,đực,02 tháng,đã tiêm 2 mũi
+728,3f280a9f1ae143a8a55f2b97668a3515,Pug,chó Pug,đực,02 tháng,đã tiêm 2 mũi
+729,40edcb99f37a4974a6e103e7b9d1fa6c,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+730,4104989c6e60479883ac7724b0111b04,Phốc sóc," chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+731,4211900ba43a4cd7804877ca003af216,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+732,425d35d74a5a4ab0b10e066998b00129,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+733,43454d50fa224a8ba2c0f059e8b608dd,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+734,450522f27b59478485b41a3a08939d44,Corgi,chó Corgi Pembroke,cái,2 tháng tuổi,chưa
+735,45f592b03f3b4581a9e58c4604df9725,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+736,46536b65113f431ab66e9d0fd0c2c6bb,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+737,472f90db83d342ff804c6b18a8f0eeef,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+738,479fc75e4ec84b79a2550a65481f8dde,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+739,485d9772b5fc4d4f950ca3740dadf3ac,Phốc sóc,"chó Teacup Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+740,4abe6b3a22444210b687e41ab8df2b43,Shih Tzu,chó Shih Tzu,đực,03 tháng,đã tiêm 2 mũi
+741,4baeb8f996cb4098992be4acf4e8702a,Shih Tzu,chó Shih Tzu,đực,03 tháng,chưa
+742,4fcc7389a9274a2ebd8f448ad9aa043d,Corgi,chó Corgi Pembroke,04 đực 05 cái,02 tháng,đã tiêm 2 mũi
+743,514508f9285d4667877c32d0d061584c,Alaska,chó Alaska Malamute Oversize,đực,02 tháng,chưa
+744,5167f101444b441cacfdf281f466118f,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+745,521351ad39384adbbbe79c2dad125164,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+746,52e1bd42e81a444a850a4b741f815e8f,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+747,53795754248044d2abbeefc00619ca33,Beagle,chó Beagle,đực,02 tháng,đã tiêm 2 mũi
+748,5478fb0805684b7d8c9023d2e27aa8ac,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+749,5486f87cc5b2476799560a7d5379314f,Shiba Inu,chó Shiba Inu Nhật Bản,01 cái 03 đực,02 tháng,đã tiêm 2 mũi
+750,55255fd351d148f88573400e827d74e5,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+751,552652cd08bf45d5a9f10b0560a98bc0,Corgi,chó Corgi Pembroke,cái,02 tháng,chưa
+752,5835e53e48be414b9738c68af86774bb,Corgi,chó Corgi Pembroke,cái,02 tháng,chưa
+753,5837591d3a5a462cbbcf7f082ee44d50,Poodle,"chó Poodle, Màu: nâu đỏ, vàng mơ, Giới tính: 2 đực, 1 cái",2 đực 1 cái,06 tháng,đã tiêm 2 mũi
+754,5903d7c708434429ab5ce79945d950b7,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+755,59d21bd533384f4aacf0857bc13a7c4c,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+756,5a8aa7bb4a8c4c748b86246bf486637d,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+757,5b567a5140a14234862a7b2d6d952e3d,Yorkshire,"chó Yorkshire Terrier, Giới tính: đực",đực,04 tháng,đã tiêm 2 mũi
+758,5b56fca1cca448e9bc05e50e3381966d,Husky,chó Husky Sibir,đực,04 tháng,chưa
+759,5e15a70f54f545eb970f9fabeaa375ed,Shiba Inu,chó Shiba Inu Nhật Bản,cái,04 tháng,chưa
+760,5eacf2f6efe94d8bb8ddcc8ee2118b21,Labrador,chó Labrador Retriever (Lab),đực cái,03 tháng,chưa
+761,5f21f72ea5294a79967143b5eaac37e0,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+762,5f78dceabace4e2a83bcf3a7e1c6d5d2,Border Collie,"chó Border Collie, Màu sắc: nâu đỏ",đực,02 tháng,đã tiêm 2 mũi
+763,5fee835e6f234a1a9f9799a5c9e18d9e,Shiba Inu,chó Shiba Inu Nhật Bản,đực,15 tháng,đã tiêm 2 mũi
+764,61e5854975b445f1b55e7ebf6d7e18df,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,chưa
+765,633bc60ede5a4506bfc7bf66346dbd70,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+766,634350aebc444168964317983dac97c8,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+767,63a81f3044014b408681037d50838ce4,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+768,641d5249f87d4946a3691cc68fff2b58,Corgi,chó Corgi Pembroke,đực cái,15 tháng,chưa
+769,65b0b7fe658840aebff61b2720beccc0,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,đã tiêm 2 mũi
+770,66a4f5b9a0524bdf8f060e4274cc3f60,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+771,6715f0b1232e45ffb90f162a7c193967,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+772,686efb5422bf4e0a9aaa87b391eb4419,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+773,68acb4a5c032428ebc9d64a963ea0880,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+774,68e76f1726fa462bac7480e9fd17b55b,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+775,68f2f40a2c9544cd909abda022a8a37e,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+776,696a12d713b84c04aec68237652b6894,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,chưa
+777,6a4acd0fd51e4152999e92a72073aaf3,Alaska,chó Alaska Malamute,cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+778,6b8b8622ddb64ec6a6bf84e76c14d682,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,chưa
+779,6ce23729e2c94ca283aa33a4182cb610,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+780,7266d02c611e4310bdcada0b27d881e2,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+781,72a3a6206a8f4b76814734e7101dfdb9,Becgie,chó Becgie Đức GSD,đực,02 tháng,đã tiêm 2 mũi
+782,7343437272f04be997f70f5cadfc1d3d,Samoyed,chó Samoyed,đực,02 tháng,chưa
+783,7362d3eb2beb47d8924a203ce4f0b398,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực Tuổi: 02 tháng,02 tháng,chưa
+784,7490f0fcaabf41328cf3860730149949,Akita Inu,chó Akita Inu Nhật Bản,01 đực vện 01 cái vàng,02 tháng,đã tiêm 2 mũi
+785,74ee89b2b17b46ff88a6de7481b82a5c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+786,75c1d242a61840508177ee21d589ab9f,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+787,7767b99345e44d3eb7b42f769e23f445,Corgi,chó Corgi Cardigan,02 đực,3 tháng tuổi,chưa
+788,78d44bc43a584098a9d5a8b11c5d2e93,Poodle,chó Poodle Tiny,đực Tuổi: 04 tháng,04 tháng,chưa
+789,7d8d498205c7419a973dbc4c76f069a6,Chow chow,chó Chow chow,cái,02 tháng,chưa
+790,7dc6d50c3a4b4339a280fa2bb3a3f0a5,Corgi,chó Corgi Pembroke,01 cái 01 đực,02 tháng,đã tiêm 2 mũi
+791,7e5ba76c150147a2bb197f2e60b64de8,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+792,7f9ee467264f495480364c9c2b00c1ca,Corgi,chó Corgi Pembroke,cái,02 tháng,chưa
+793,82d97ef72bae4dce80eff7d3e33f8ece,Pug,chó Pug,đực,02 tháng,chưa
+794,834922e58adc4424a80817b74aa09c43,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+795,86d8eb31561f4b2bb467631e1c21e1c7,Husky,chó Husky Sibir,đực,02 tháng,đã tiêm 2 mũi
+796,873df7c572d54c87924723fe02e55d91,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+797,87f193eddc3242fbb61c2cd9e63855ba,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+798,8915a2636e134e1fa87990a50be53f3e,Samoyed,chó Samoyed,đực,02 tháng,chưa
+799,895a13e9dd504202881239b581e0dc2d,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+800,8c1eba5da51948a6a543a6cdcd009805,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+801,8c328d00e277491794161ed69a47dafd,Poodle,"chó Poodle, Màu: trắng",đực,02 tháng,chưa
+802,8c6301aa3f064f26878a4ab124024cd4,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+803,8d2697210daf40599bccf4f22e9f3561,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+804,8d79e8d2c4b04a88b908dc21d08a4f60,Poodle,"chó Poodle, Màu: kem",cái,06 tháng,đã tiêm 2 mũi
+805,8d84f69c423b4a668aa1115c8f677f95,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+806,8dca3034bb1d423ea58e423476ac1beb,Border Collie,"chó Border Collie, Màu sắc: merle",đực Tuổi: 03 tháng,03 tháng,đã tiêm 2 mũi
+807,8e13abab203b44b8a6e5f5ddce7a4eb1,Border Collie,"chó Border Collie, Màu sắc: merle",đực Tuổi: 03 tháng,03 tháng,đã tiêm 2 mũi
+808,8f0b9ce08872405c8859fcf26fb7aa73,Border Collie,"chó Border Collie, Màu sắc: đen trắng",cái,03 tháng,chưa
+809,8f63a48cbe66494fa2d1d58507415cee,Border Collie,"chó Border Collie, Màu sắc: đen trắng",cái Tuổi: 03 tháng,03 tháng,chưa
+810,90b0df41d7814bdc82e45c873d38f5c5,Border Collie,"chó Border Collie, Màu sắc: vàng trắng",cái Tuổi: 03 tháng,03 tháng,chưa
+811,9154959ad63a446493f68f10c38bd43f,Corgi,chó Corgi Fluffy,01 đực 01 cái,02 tháng,chưa
+812,9182beb8afc845fd93dfee4dfa211b7b,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+813,91a41dfe80f447dca91cdc352fe588cf,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+814,91ae0c070d7542f4beeba1ccc028db0d,Poodle,"chó Poodle, Màu: vàng kem",cái,12 tháng,đã tiêm 2 mũi
+815,9255236191ab4ea5ac9df0da20030bb3,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+816,933bd0f1792748c590640914ea08631c,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+817,934ff73c44a34dab9a1091eb00fc834e,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+818,94cf70e4a4e44a038c4ada1ce6d4a8be,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+819,98800009728d4b5aa3196a16089ce1c3,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+820,98db284c4c524c15b41875a139077177,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+821,99122cd97dbb4dbbbec2a00feee56519,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+822,9922f22be0ac41bc9b3d8822c302ee15,Poodle,chó Poodle Tiny,cái,02 tháng,đã tiêm 2 mũi
+823,9a0a1cd6396241bbaf941b3bfe649be2,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+824,9ab70c5e39ea4050a1a2fb69521df296,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+825,9b700f784ba94a77ad5d62425413209c,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+826,9b925448e8c84167ba7dfd3d6a299e48,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+827,9c381678091c4d3e9d22265a3f0efef7,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+828,9dd6ffc9664c4658b41bdbbdf437973e,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+829,9f331b14ba994ec3b025c0aa2fca8d9e,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+830,9fe5da5074b74419a25bc18a3b0e39d6,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+831,a0bc14eccb8b48228e5ac03ee8d8a901,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+832,a177cfe93a5c46f68cebd0280d5274ab,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+833,a1b681c66e514664bd1d27933e373c34,Corgi,chó Corgi Pembroke,01 cái 02 đực,2 tháng tuổi,chưa
+834,a303b4fe7d6e4f578b45a3eefeca984b,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,chưa
+835,a3563d75450d47e6b3a1d34565e7ea41,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,đã tiêm 2 mũi
+836,a3887e7446aa49b4b2cd8704c48e278c,Corgi,chó Corgi Pembroke,đực,2 tháng tuổi,chưa
+837,a4500bd4ccfb4eaf9044cf9c2160d09f,Corgi,chó Corgi Pembroke,01 cái 01 đực,2 tháng tuổi,chưa
+838,a5b5ecc944d642c0b198b9dc1c639d06,Corgi,chó Corgi Cardigan,đực cái,02 tháng,chưa
+839,a684d7bedada497fabd93b3743e65317,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+840,a6986649599f49c382f4fd0a3d804a13,Corgi,chó Corgi Pembroke,đực,10 tháng,đã tiêm 2 mũi
+841,a845a03fbdac4c7abcf6816d70652e58,Akita Inu,chó Akita Inu Nhật Bản,đực cái,02 tháng,đã tiêm 2 mũi
+842,a927692c87fd49f281e38f2438c7ddd1,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+843,aa623c8a0b774d0fbb26774cb42c2ff9,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+844,aadf5d6680ae471b9cf7348230e7fae3,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,đã tiêm 2 mũi
+845,ab1c50fe7ece4278a575f50c26d054d3,Corgi,chó Corgi Pembroke,đực,15 tháng,chưa
+846,ab3cee09f863400598215547ca9d7613,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+847,ad53c421eba84ccd8b808f3243c75f03,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+848,ae85e218c23449b196bb958d28cfbbe6,Labrador,chó Labrador Retriever (Lab),cái,02 tháng,chưa
+849,af3098319b5745ed93210ffc27cea15c,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+850,b0aa181e976b41b2a4e31dd2e8622343,Corgi,chó Corgi Pembroke,01 cái,2 tháng tuổi,đã tiêm 2 mũi
+851,b2d52e2e565e49fa88480b18aa86b7a8,Border Collie,"chó Border Collie, Màu sắc: lilac merle",đực Tuổi: 02 tháng,02 tháng,chưa
+852,b39e743e22cd42299ccfe528f5f13e76,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+853,b3c25e169e5b4b34b151485e22c27598,Bichon,chó Bichons Frise,đực,02 tháng,chưa
+854,b5061655d16840508674a7e817088f99,Bichon,chó Bichons Frise,đực,02 tháng,chưa
+855,b5967caf1a2e439185d774a22149fa5d,Bull Pháp,"chó Bull Pháp (French Bulldog, Bull dog Pháp), Màu sắc: bò sữa",đực,03 tháng,đã tiêm 2 mũi
+856,b5bfe95be37e40c1acd8b2b70539fa60,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+857,b65435c2d61d495bbd0d2ef173831cec,Poodle," chủ nhân cho cún Poodle màu trắng vô dùng dễ thương, : Bin – hơn 2 tháng tuổi – màu trắng, ch hàng hoàn toàn an tâm khi mua chó Poodlen con thuần chủng của thương hiệu chúng tôi vì:, ợp đồng mua bán rõ ràng",đực,12 tháng,đã tiêm 2 mũi
+858,bab3de4ef5da4ee78ff5b79495101ff3,Alabai,chó chăn cừu Trung Á – Alabai,đực,4 tháng tuổi,đã tiêm 2 mũi
+859,bb63281c4c954de0817ab77ce9fb859f,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+860,bc52f059279f453b819337d47ebd7e41,Alaska,chó Alaska Malamute,đực,12 tháng,đã tiêm 2 mũi
+861,bc6061f3d1d446a9897a1d1b0253c113,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+862,bfd15b3855994518bc4d3f626fe0b8c2,Alabai,chó chăn cừu Trung Á – Alabai,đực,4 tháng tuổi,chưa
+863,c158f88dca58424caca3946ea4087b15,Alabai,chó chăn cừu Trung Á – Alabai,đực,4 tháng tuổi,chưa
+864,c28f4bc2a85d498ba51a3423c72bc60c,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+865,c307c500aefc435f848bc784218d8878,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+866,c468270b253a435f8a05d8a013293a26,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+867,c58c007d11a44a87aba5636f806420c4,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+868,c776e2dcce1f4c0ea0d82a31d61a8ef7,Alabai,chó chăn cừu Trung Á – Alabai,đực,4 tháng tuổi,chưa
+869,c807ce161571474196171f7e5ca06ba1,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,đã tiêm 2 mũi
+870,c80f996c1d0e449ca612b677af94bc72,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+871,c8c979612e9c43b19dc44643276ec32a,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+872,ca6863e61fba4ab3b467ae1e11b218c4,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+873,ca81e876bf944bd1a21f3348e452d0f0,Pug,chó Pug,đực cái,02 tháng,đã tiêm 2 mũi
+874,ccdf1c66386a4af68f134cc48a595b99,Samoyed,chó Samoyed,đực,02 tháng,đã tiêm 2 mũi
+875,cceff12503be44a0a1a932a501476180,Alabai,chó chăn cừu Trung Á – Alabai,đực,2 tháng tuổi,chưa
+876,ccfd433917e34f79a0e86fc720df6998,Alabai,chó chăn cừu Trung Á – Alabai,đực,2 tháng tuổi,đã tiêm 2 mũi
+877,cd4a95445a93443c9b588646bb22306d,Akita Inu,chó Akita Inu Nhật Bản,đực cái,01 tháng,chưa
+878,ce89d38a9a9e4a069d3fa885ad1f15b1,Alabai,chó chăn cừu Trung Á – Alabai,đực,6 tháng tuổi,đã tiêm 2 mũi
+879,cea3cf66019642b385d529f5ca163820,Alabai,chó chăn cừu Trung Á – Alabai,đực,6 tháng tuổi,đã tiêm 2 mũi
+880,cf8f2c8769fd4d65aaa1f201b96cfc58,Bully,chó Bully American,đực,02 tháng,chưa
+881,d4552ad31a664b5794e679376c4a1257,Labrador,chó Labrador Retriever (Lab),đực 1cái,02 tháng,chưa
+882,d515b877c7a84a4ab3884ab27f8f5480,Labrador,chó Labrador Retriever (Lab),đực cái,7 ngày,đã tiêm 2 mũi
+883,d5aa56d0dbac46338f36d116f7df1f10,Labrador,chó Labrador Retriever (Lab),đực,02 tháng,chưa
+884,d6a4ba12d41548799f7b3134f3f39c44,Labrador,chó Labrador Retriever (Lab),đực,01 tháng,chưa
+885,db4a8dc3b27d4e6fb7f6e2800710833c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+886,dc33f2066ef04f8cb51dd6cc1d292405,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+887,dcfcaecf6fb24e518f30427adef53b1b,Husky,chó Husky Sibir,đực,15tháng,đã tiêm 2 mũi
+888,de9180cd003943f3a7440ce97cde153a,Alaska,chó Alaska Malamute,đực,04 tháng,đã tiêm 2 mũi
+889,df0def236f1d4cf4b13bff3c8c573975,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,chưa
+890,df5c57418e4847629c500bd563cdf98a,Corgi,chó Corgi Pembroke,đực cái,02 tháng,đã tiêm 2 mũi
+891,df6908d04d044c178c5fd306da54b019,Golden,chó Golden Retriever (Gâu đần),đực cái,02 tháng,đã tiêm 2 mũi
+892,e01d864db0b3465e97b010f220445144,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+893,e047f70fc3594aa2a38eb4662b04ee93,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+894,e0868f06cf9e4da49ec3ef6a76d88a86,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+895,e13751c99b9f4c2d92a7d6070d283341,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,chưa
+896,e1a15fba433a45018786ec499958ce7f,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+897,e22fc17c32c74899abf4cbeb7e39bbec,Akita Inu,chó Akita Inu Nhật Bản,đực cái,02 tháng,chưa
+898,e3863348436746fc82dee82db10fe5ca,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,chưa
+899,e5364172f1ab43b69b4fc32021989d1c,Husky,chó Husky Sibir,đực,02 tháng,chưa
+900,e6539fbb73d34a4da0d05fd91e33a2ba,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+901,e67afb352cb24cb483522bf95c7d6db7,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+902,ea4fade16dc842e6a21bd16091d67250,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+903,ec10aae42aca414bb6533c076365d536,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+904,edb4c03ca3854ef28dba799d0cbfcca6,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+905,edb97610591c416b8079a7bd581d54e1,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+906,f117372110b54159977e05d2e718e832,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+907,f1f0301f16934eb79e618bbb0b1addd0,Husky,chó Husky Sibir,đực,03 tháng,chưa
+908,f30f409b5c4d4e9b837f8df9aca841fa,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+909,f3941a58ad504ed3b38f186de836d495,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+910,f3b9a422ada74fde9deb8b2240a654bd,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+911,f3bc58b306874e5f80e8223a40c8feb6,Poodle,chó Poodle Tiny,đực Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+912,f48b3968907d4d7f9d0a7267ebd482fb,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+913,f6adbc258c214bd6ab8c25c136c13d53,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+914,f72d2c9263ad42d994c8cf89f48a1254,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+915,f9308161ed2d45efbf45f6cd92fbac64,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+916,f972ae32c7464371860b774b6da21a71,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+917,fa1538d182b84e339bf57f35a6764723,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+918,fc7030b63fd941e8a7a62558c44bb9bc,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+919,fcf7da088fc84bca9a17e990f17a0b0c,Corgi,chó Corgi Pembroke,đực cái Tuổi: 02 tháng,02 tháng,đã tiêm 2 mũi
+920,ff4f018fc4124130943a795e2789448a,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+921,0e0ef8f812364ed787de88e5eb6c91e4,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+922,23fb29bcf8804ab2a2f002dc00aa5161,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái,02 tháng,chưa
+923,32d4f678c2cd457490759fb305a17218,Bull Pháp,chó Bull Pháp,đực,03 tháng,chưa
+924,3e4cdb5e71df488abb6ca64dc62ea568,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",cái Tuổi: 02 tháng,02 tháng,chưa
+925,46f52f20d79b46eabfcd2fbbe5c02ea3,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+926,47e58f49e73542f99902de07c4a5d75d,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+927,56143a9efd6b481d88979ac4b2c4e08f,Bichon,chó Bichons Frise,cái,02 tháng,đã tiêm 2 mũi
+928,747cd86d3b244a5cb632ac837923df18,Akita Inu,chó Akita Inu Nhật Bản,đực,4 tháng,đã tiêm 2 mũi
+929,74ac703a5a1f4e5ea290b31316f1f4a7,Akita Inu,chó Akita Inu Nhật Bản,cái đực,02 tháng,đã tiêm 2 mũi
+930,b6ec62e032664bdc8cb35e77622cc55f,Akita Inu,chó Akita Inu Nhật Bản,đực,03 tháng,chưa
+931,d87f2d34a90544078bb84c98608fa384,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+932,f38b7b89de224c9b885ff7b22ce5f0e6,Corgi,chó Corgi Pembroke,đực cái,02 tháng,đã tiêm 2 mũi
+933,5706eab074974dc8930a8c625ce8ebe9,Corgi,chó Corgi Pembroke,cái,02 tháng,đã tiêm 2 mũi
+934,5c0e5ec0c4504856bf5f5d6d423f021d,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+935,3b0532c3021043a298235c876d2b13b0,Corgi,chó Corgi Pembroke,01 cái 01 đực,2 tháng tuổi,đã tiêm 2 mũi
+936,441c059cc5c84962b1db33cdf6c5fb06,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+937,4c2dfb3b6ca74621a928379d2cdc1931,Corgi,chó Corgi Pembroke,01 cái 02 đực,2 tháng tuổi,đã tiêm 2 mũi
+938,5088144157754c2b8c75fb08a06d33c6,Corgi,chó Corgi Pembroke,01 cái 02 đực,2 tháng tuổi,đã tiêm 2 mũi
+939,54b5279324f14b4d904f011c50933f09,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+940,5c32f54acc1746848e354303f3831091,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+941,7cd939949b0a4674b476dfde0cbd2dc0,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+942,9b961200d372447684dfd0dcdbe1975b,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+943,af6b5ba12d8a483aacf4f521c4018a53,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+944,b3b7800750f64579a0f7f7d9445f6e60,Corgi,chó Corgi Pembroke Fluffy lông dài,đực,04 tháng,chưa
+945,bd502bf0d2e54f9f8693408a385ae720,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+946,be74fb74019b4e45b60b8cec4bb7b97b,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+947,cd57fe294c8a469180e88731ed27b6c4,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+948,d23ad74c085a432b9b0d7d5b1ae21122,Pug,chó Pug,đực cái,02 tháng,đã tiêm 2 mũi
+949,d9af0a9bb52c457cbeda1c84e6557419,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+950,e6f33dd13fe34617b7d364a32664e784,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,chưa
+951,f3272ee0721b4dea8f77ee6834b252b5,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+952,13b75417abb9417fb7b7bebc2d44bae9,Husky,chó Husky Sibir,đực,03 tháng,đã tiêm 2 mũi
+953,0060fb09d9a44938bb6efd0eabedf110,Labrador,Labrador Retriever,cái,03 tháng,chưa
+954,0748f40d946f4e04a683d63fe8f851a3,Labrador,Labrador Retriever,02 đực,03 tháng,đã tiêm 2 mũi
+955,07fb33d10c21482ba739bd667d800790,Akita Inu,chó Akita Inu Nhật Bản,đực,02 tháng,chưa
+956,0ac393849c30430aac2ebc08ebefc56c,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+957,0f1bb34adf734048a480c6594049031b,Corgi,chó Corgi Pembroke,cái,02 tháng,chưa
+958,156c15098a8c48fda64705baae5d3983,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+959,15cd920547c74ced84d021033cac50c7,Akita Inu,chó Akita Inu Nhật Bản,cái,02 tháng,chưa
+960,16a3e684f48446f2bdcfe9113925ab4e,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+961,16b5774d794d41558811d0ee1bd0b8a4,Golden,chó Golden Retriever (Gâu đần),đực cái,02 tháng,đã tiêm 2 mũi
+962,1b7f4bdf4bdf459ab821a99c226e3511,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
+963,1c6e4b23b5ad49f7a0b6aec7cd5b9caf,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+964,24464019d2814eda8f7ad3d204987311,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+965,247efd87ec1448339ec9f91cd434388a,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+966,2bc1b70a7b024a47978af0beec306a4f,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,đã tiêm 2 mũi
+967,32e8fe0d907b49aebabe7609ee2202aa,Poodle,chó Poodle Tiny,đực cái,02 tháng,chưa
+968,351175f0bd9041349872d344f26ca30b,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+969,3db0837bb66745439b4e0f40e8760298,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+970,40a5c8e4f5ee43ceac1853d62a6938b0,Poodle,chó Poodle Tiny,đực cái,02 tháng,đã tiêm 2 mũi
+971,413756f8863f4c2ea094c4cfd42de6a6,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+972,4207e4f331714923af88d5adc2e132ec,Akita Inu,chó Akita Inu Nhật Bản,đực,7 tháng,chưa
+973,496bfec1955d467c82b688c4dd2b86be,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+974,4a9434cb57dd4532a6ccafe372a89f6c,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực,02 tháng,chưa
+975,4e24bff6dfa244d0a960c607aacc96b9,Labrador,chó Labrador Retriever (Lab),đực cái,1 tháng,chưa
+976,4fc993b38b00433dbb326393dcf7ea91,Golden,chó Golden Retriever (Gâu đần),đực,02 tháng,đã tiêm 2 mũi
+977,50c5038aa183460fbcfdcfdcfd447bc8,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,chưa
+978,57fc21c82446423e9e5cc7c9f0135716,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,đã tiêm 2 mũi
+979,5f17e719c82540abac11fbbd7060b56c,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+980,60b2cae14ef347ad947e26f54b5ef75e,Alaska,chó Alaska Malamute,đực,45 ngày tuổi,chưa
+981,648939d7fe98443ea6fafd49d0ae9a08,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+982,65ade5cdcfeb4df4b07f84637de91ab2,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+983,7153cc36cc0d432dac78442d59a290cc,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+984,75a89e109ac5461e9a62f5b7c387d458,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,đã tiêm 2 mũi
+985,7c23e68603f844dbae94a7d76bc15993,Corgi,chó Corgi Pembroke,cái,02 tháng,chưa
+986,81d38262a3f44f9e8aeca1e598fc9821,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+987,82b895b62fe64b8091ca7d9e1c01acda,Poodle,chó Poodle Tiny,đực,02 tháng,chưa
+988,833d1edbaeaf42b68a996a4815f605a5,Alaska,chó Alaska Malamute,đực,45 ngày tuổi,chưa
+989,835d4b47094844eda88909d8f836eb5f,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+990,85b6d45283414feaaea1e8a614b4f078,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+991,88ea6f5a39934e2b91ea63fc29e37979,Shiba Inu,chó Shiba Inu Nhật Bản,đực,04 tháng,đã tiêm 2 mũi
+992,8c2de4513dee4a8ba2b4b2bbd48bc69f,Corgi,chó Corgi Pembroke,đực,02 tháng,chưa
+993,8e824b74391c4a19a6ac1336cae81d22,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+994,8eeda765683249ef891b3e083e431fe3,Corgi,chó Corgi Pembroke,đực cái,02 tháng,đã tiêm 2 mũi
+995,9129834c395a45538c518531ba4f00a2,Poodle,chó Poodle Tiny,cái,02 tháng,chưa
+996,9211af9e8bb84262be84e373a21c38c0,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+997,964edaf7eaf54a2ea681b8b8835717e7,Alaska,chó Alaska Malamute,đực cái,02 tháng,chưa
+998,9a3d44986df4485689c48e4617c67a58,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,chưa
+999,a19a2ca9452f440aa041753635e2e06b,Poodle,chó Poodle Tiny,đực,02 tháng,đã tiêm 2 mũi
+1000,a31500eed56e406888961be9a585ef91,Corgi,chó Corgi Fluffy,01 đực,2 tháng tuổi,chưa
+1001,aec3c55b48eb42358b7b3de206c1919a,Corgi,chó Corgi Fluffy,01 cái,2 tháng tuổi,chưa
+1002,b6b998e7d1ba4b12aed674c9fe83d6e2,Corgi,chó Corgi Pembroke,01 cái,2 tháng tuổi,chưa
+1003,b8117bb24def49d19f2d2d012d0c5ad4,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+1004,cec7620e3e7f4640bac59129499cc21a,Alaska,chó Alaska Malamute,đực cái,02 tháng,đã tiêm 2 mũi
+1005,cf597967f44c418ea686960b4ce25693,Poodle,chó Poodle tiny,đực,05 tháng,chưa
+1006,d2a71ca3fee94bf4a34867fcdfc79688,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,01 tháng,chưa
+1007,d701c3d168024dcfb50a8791c5a99432,Alaska,chó Alaska Malamute,đực,02 tháng,đã tiêm 2 mũi
+1008,d86155d0701841cab17465fb0c19966b,Shiba Inu,chó Shiba Inu Nhật Bản,đực,04 tháng,đã tiêm 2 mũi
+1009,ddc450e566bb420a8f4740e1f62dc566,Alaska,chó Alaska Malamute,đực,02 tháng,chưa
+1010,df0d4c60af444b018f6f09563b159f41,Chihuahua,chó Chihuahua,đực,02 tháng,đã tiêm 2 mũi
+1011,e15ac0acf8e545a4b844c984d4c75cda,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,đã tiêm 2 mũi
+1012,ed10295c6a7a428da97ab7cd8fbf19ce,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+1013,ee0002d7a16f41aa8afe646036bfe661,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+1014,f3b740e08c78443190d48de03417de46,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,đã tiêm 2 mũi
+1015,f7e65a27fe64483694c8593b6c516137,Alaska,chó Alaska Malamute,đực,45 ngày tuổi,chưa
+1016,fc04f7c60e2c4afa8e7464ebe1df6807,Corgi,chó Corgi Pembroke,đực,02 tháng,đã tiêm 2 mũi
+1017,ff6914e6998b41eab6eac5b83f35bc73,Shiba Inu,chó Shiba Inu Nhật Bản,đực,02 tháng,chưa
+1018,1fbedb0b294f416994e2471da911464f,Shiba Inu,chó Shiba Inu Nhật Bản,đực cái,02 tháng,chưa
+1019,77359ba0dc594f2bb7e79a395ed5e165,Shiba Inu,chó Shiba Inu Nhật Bản,cái,02 tháng,đã tiêm 2 mũi
+1020,8a57a48e38b64e428ff7db2e6c4c1793,Phốc sóc,"chó Pomeranian (Phốc sóc, Pom)",đực cái,02 tháng,chưa
